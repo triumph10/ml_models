@@ -1,0 +1,1001 @@
+freelancer_id,skills,main_category,experience_years,hourly_rate,rating,jobs_completed,success_rate,response_time_hours,on_time_delivery_rate
+FR0001,"Analytics, Social Media Marketing, SEO, Content Marketing, Copywriting, Creative Writing, Content Writing, Blog Writing, Technical Writing",marketing,9,78,4.7,71,0.84,27.1,0.91
+FR0002,"SEO Writing, Blog Writing, Technical Writing, Content Marketing, Social Media Marketing, Analytics",writing,15,150,3.9,82,0.95,15.5,0.98
+FR0003,"Ruby, React, Vue.js, Django",programming,11,48,4.3,18,0.84,33.3,0.98
+FR0004,"Graphic Design, Illustrator, UI Design, Logo Design, UX Design",design,4,47,3.7,67,0.87,2.4,0.87
+FR0005,"Swift, Python, Java",programming,5,45,4.8,90,0.88,25.7,0.94
+FR0006,"SQL, Angular, Django, Swift, C++, Email Marketing, PPC, Social Media Marketing",programming,11,92,4.1,45,0.95,9.4,0.97
+FR0007,"Adobe XD, UX Design, Figma, Content Writing, Creative Writing, Copywriting, SEO Writing, Technical Writing",design,5,45,4.3,11,0.99,45.5,0.89
+FR0008,"UI Design, Figma, Logo Design, UX Design, Analytics, Digital Marketing, Social Media Marketing",design,3,36,4.0,47,0.81,43.6,0.91
+FR0009,"Photoshop, Graphic Design, UI Design, Figma, Email Marketing, Social Media Marketing",design,8,87,3.6,100,0.94,33.4,0.86
+FR0010,"Content Marketing, Social Media Marketing, Illustrator, Photoshop",marketing,9,69,4.7,57,0.93,13.0,0.99
+FR0011,"React, C++",programming,2,35,4.1,86,0.99,21.7,0.99
+FR0012,"Digital Marketing, Content Marketing, Social Media Marketing",marketing,11,114,4.1,8,0.96,31.3,0.97
+FR0013,"Content Writing, SEO Writing, Copywriting, Blog Writing",writing,1,20,4.1,78,0.99,5.7,0.89
+FR0014,"Email Marketing, PPC",marketing,11,114,4.3,47,0.84,14.4,0.95
+FR0015,"Content Marketing, Email Marketing, Social Media Marketing, SEO, Digital Marketing, Blog Writing, Creative Writing, Copywriting",marketing,12,135,4.0,100,0.91,41.2,0.87
+FR0016,"Node.js, JavaScript, C++, SEO, Analytics",programming,4,35,3.6,89,0.82,3.1,0.88
+FR0017,"UI Design, Photoshop, Logo Design, Adobe XD",design,13,67,3.5,28,0.99,34.1,0.87
+FR0018,"Analytics, Content Marketing, Social Media Marketing, Email Marketing",marketing,12,111,4.1,36,0.88,2.8,0.92
+FR0019,"UX Design, Logo Design, Illustrator, Photoshop, Figma",design,8,71,3.9,30,0.92,19.4,0.85
+FR0020,"Analytics, Content Marketing, Email Marketing, PPC, Digital Marketing",marketing,6,75,4.4,20,0.97,36.3,0.93
+FR0021,"Social Media Marketing, SEO, Digital Marketing, PPC",marketing,1,21,3.8,56,0.86,35.5,0.85
+FR0022,"Logo Design, Photoshop",design,1,25,4.8,10,0.99,33.2,1.0
+FR0023,"Digital Marketing, PPC, SEO, Content Marketing, Technical Writing, SEO Writing, Content Writing",marketing,14,141,4.9,78,0.98,37.1,0.97
+FR0024,"Copywriting, Technical Writing, SEO Writing, UI Design, Illustrator",writing,4,43,3.9,22,0.85,22.9,0.88
+FR0025,"Creative Writing, Blog Writing",writing,1,19,3.6,74,0.83,47.1,0.88
+FR0026,"Angular, Django, PHP, Swift, Java, PPC, Email Marketing, Content Marketing, Digital Marketing",programming,4,27,4.4,9,0.98,8.6,0.88
+FR0027,"Digital Marketing, Social Media Marketing, Analytics, Email Marketing, Content Marketing",marketing,7,43,4.9,68,0.92,8.3,0.91
+FR0028,"Copywriting, Content Writing, Technical Writing, SEO Writing, Creative Writing",writing,13,132,4.8,22,0.97,25.4,0.85
+FR0029,"C++, Vue.js",programming,6,33,3.9,38,0.91,27.8,0.87
+FR0030,"SEO Writing, Creative Writing, Copywriting, Technical Writing",writing,14,127,3.7,32,0.99,16.7,0.88
+FR0031,"SEO, Digital Marketing",marketing,2,23,4.3,16,0.98,44.4,0.99
+FR0032,"Analytics, Email Marketing, Digital Marketing, Social Media Marketing, Content Writing, Technical Writing, Blog Writing, Creative Writing, SEO Writing",marketing,12,123,4.2,74,0.99,21.7,0.86
+FR0033,"Email Marketing, SEO",marketing,4,39,4.0,97,0.92,43.9,0.94
+FR0034,"PPC, SEO, Digital Marketing, Email Marketing, Analytics",marketing,11,70,5.0,20,0.82,42.7,0.86
+FR0035,"UI Design, Logo Design, Figma, Graphic Design, Photoshop",design,15,105,4.5,89,0.88,6.0,0.99
+FR0036,"Graphic Design, UX Design, Logo Design, Illustrator",design,4,39,5.0,68,0.88,45.7,0.88
+FR0037,"Technical Writing, Blog Writing, Content Writing, Creative Writing",writing,5,50,3.8,65,0.97,45.2,0.98
+FR0038,"Content Marketing, Analytics, Email Marketing, Social Media Marketing",marketing,13,119,4.5,40,0.88,15.0,0.89
+FR0039,"Figma, Graphic Design, Logo Design, Content Writing, Technical Writing, Copywriting",design,1,23,4.7,15,0.93,17.9,0.99
+FR0040,"Technical Writing, Blog Writing, SEO Writing, Creative Writing, React, Python, JavaScript",writing,14,155,4.3,79,0.95,11.9,0.94
+FR0041,"Angular, Django, React, C++, Social Media Marketing, Digital Marketing, PPC, Email Marketing",programming,11,125,4.6,67,0.85,2.8,0.96
+FR0042,"Content Marketing, Digital Marketing, Email Marketing, Node.js, Ruby, React, C++, Python",marketing,7,50,4.8,97,1.0,42.1,0.91
+FR0043,"Java, Angular, SQL, PHP",programming,15,120,4.8,10,0.82,36.6,0.9
+FR0044,"C++, JavaScript, Python",programming,14,71,4.8,63,0.83,37.6,0.96
+FR0045,"Graphic Design, UX Design, Photoshop, UI Design, Adobe XD, Email Marketing, Digital Marketing, Content Marketing, Social Media Marketing",design,3,42,4.9,78,0.94,26.9,0.85
+FR0046,"Creative Writing, Copywriting",writing,9,105,4.3,33,1.0,44.5,0.91
+FR0047,"Angular, Swift, C++, JavaScript, SQL, PPC, Digital Marketing, Social Media Marketing, Analytics, Email Marketing",programming,3,45,5.0,83,0.86,42.2,0.87
+FR0048,"JavaScript, Angular, React, Java, Django",programming,2,27,4.0,76,0.82,37.8,0.9
+FR0049,"Content Marketing, Analytics, Technical Writing, SEO Writing, Creative Writing, Content Writing, Copywriting",marketing,13,119,4.7,57,0.89,16.2,0.89
+FR0050,"Creative Writing, Copywriting, SEO Writing",writing,2,25,4.8,37,0.87,25.4,0.9
+FR0051,"Blog Writing, SEO Writing, Content Writing, Content Marketing, Email Marketing, PPC, Social Media Marketing",writing,15,75,4.0,77,0.97,17.0,0.9
+FR0052,"Copywriting, SEO Writing, Email Marketing, Content Marketing, Social Media Marketing, Digital Marketing, SEO",writing,15,150,3.8,35,0.83,39.5,0.98
+FR0053,"Technical Writing, Blog Writing, Creative Writing, Content Writing, Angular, Node.js",writing,11,114,3.8,98,0.92,42.0,0.92
+FR0054,"Content Marketing, Social Media Marketing, Digital Marketing, Email Marketing",marketing,14,141,4.7,34,0.97,23.2,0.88
+FR0055,"C++, Angular, React",programming,5,30,4.0,85,0.87,34.4,0.95
+FR0056,"Figma, UI Design, Photoshop, SEO, Analytics, Email Marketing",design,3,45,4.6,80,0.85,5.0,0.92
+FR0057,"SEO Writing, Copywriting, Content Writing, Technical Writing",writing,9,96,4.9,62,1.0,34.7,0.91
+FR0058,"Java, JavaScript",programming,5,30,4.5,77,0.99,20.0,0.9
+FR0059,"Angular, React, JavaScript, Blog Writing, Content Writing, Creative Writing, Copywriting",programming,4,43,4.6,70,0.99,45.0,0.88
+FR0060,"Analytics, Email Marketing, Social Media Marketing, Digital Marketing",marketing,15,120,4.8,52,0.97,38.3,0.87
+FR0061,"Technical Writing, Creative Writing",writing,2,21,3.9,70,0.89,7.5,0.87
+FR0062,"Content Marketing, PPC, Logo Design, Figma, Illustrator, Photoshop",marketing,4,51,4.4,89,0.94,19.8,0.94
+FR0063,"SEO, Digital Marketing, Email Marketing, Graphic Design, Adobe XD, Photoshop, UI Design",marketing,15,150,4.6,69,0.91,45.3,0.95
+FR0064,"Vue.js, React, SQL, Python, JavaScript",programming,13,80,3.6,89,0.83,14.0,0.97
+FR0065,"Java, Django, Creative Writing, SEO Writing, Content Writing, Technical Writing, Copywriting",programming,7,85,3.9,21,0.89,39.8,0.97
+FR0066,"React, JavaScript, Copywriting, Blog Writing, Creative Writing, SEO Writing",programming,6,57,4.9,55,0.92,11.8,0.89
+FR0067,"Blog Writing, Content Writing, Technical Writing",writing,3,33,4.4,58,0.98,39.1,0.89
+FR0068,"Photoshop, UX Design, Illustrator, Graphic Design, Figma",design,10,115,4.3,38,0.9,40.5,0.97
+FR0069,"UX Design, Illustrator, Logo Design, Photoshop, Blog Writing, Copywriting, SEO Writing, Content Writing",design,9,78,4.8,22,0.9,17.7,0.86
+FR0070,"Content Writing, Blog Writing, Copywriting, SEO, Social Media Marketing",writing,4,55,4.5,31,0.92,19.2,0.94
+FR0071,"UI Design, Adobe XD, Graphic Design, Figma, Django, Angular, Ruby, JavaScript",design,2,23,4.5,23,0.9,41.2,0.96
+FR0072,"Content Marketing, Analytics, PPC",marketing,4,55,3.9,55,0.98,43.6,0.94
+FR0073,"JavaScript, Python, Angular, Swift, SQL",programming,5,60,4.4,7,0.98,38.4,0.94
+FR0074,"Technical Writing, Content Writing, Creative Writing, Copywriting, Blog Writing",writing,7,50,3.6,67,0.88,43.2,0.85
+FR0075,"SEO, PPC, Analytics, Digital Marketing, Email Marketing",marketing,13,132,4.8,17,0.94,41.3,0.89
+FR0076,"Swift, Django, Vue.js, JavaScript, SQL",programming,3,33,4.4,72,0.96,43.6,0.89
+FR0077,"Adobe XD, UI Design, Logo Design, Vue.js, C++, Node.js",design,9,105,3.7,34,0.83,23.5,0.91
+FR0078,"Illustrator, Graphic Design",design,15,75,4.6,51,0.97,34.4,0.89
+FR0079,"Technical Writing, Content Writing",writing,5,65,3.9,36,0.9,40.3,0.88
+FR0080,"Python, Java, Ruby, PHP, React",programming,3,33,4.1,28,0.99,26.7,0.99
+FR0081,"Ruby, Python, C++, Django, PHP, UI Design, Illustrator",programming,6,33,5.0,52,0.8,38.9,0.87
+FR0082,"Adobe XD, Figma, Graphic Design, UI Design, Photoshop, Content Writing, Copywriting",design,5,50,4.8,19,0.83,18.5,0.99
+FR0083,"Creative Writing, SEO Writing, Illustrator, Adobe XD, Figma, Graphic Design",writing,8,87,3.8,62,0.81,12.9,0.85
+FR0084,"PPC, SEO, Copywriting, Creative Writing, Blog Writing",marketing,4,43,4.8,68,0.86,18.9,1.0
+FR0085,"Creative Writing, Copywriting, SEO Writing, Python, C++, SQL, Angular, Java",writing,9,60,3.6,56,0.84,29.0,0.87
+FR0086,"React, C++, JavaScript, Email Marketing, Content Marketing",programming,15,165,4.6,77,0.84,4.8,0.87
+FR0087,"Django, Node.js, Swift, Content Marketing, Social Media Marketing",programming,11,92,4.8,51,0.93,45.0,0.86
+FR0088,"PPC, Content Marketing",marketing,2,29,4.0,32,0.84,9.6,0.89
+FR0089,"Social Media Marketing, Analytics, SEO, PPC, Content Marketing",marketing,15,105,4.3,84,0.83,18.2,0.86
+FR0090,"SEO Writing, Technical Writing, Content Writing",writing,5,55,4.1,20,0.87,28.6,0.9
+FR0091,"UX Design, Figma, Illustrator, Logo Design, Graphic Design",design,8,79,3.7,31,0.82,21.1,0.98
+FR0092,"React, Django, Python, Angular, Node.js",programming,10,65,4.1,35,0.98,46.5,0.87
+FR0093,"Adobe XD, Photoshop, Graphic Design, Figma",design,5,55,4.5,68,0.94,34.6,1.0
+FR0094,"Technical Writing, Blog Writing, Copywriting, Creative Writing, SEO Writing",writing,10,105,4.0,80,0.83,31.4,0.88
+FR0095,"PPC, Social Media Marketing, Content Marketing",marketing,3,36,4.4,84,0.81,3.2,0.92
+FR0096,"Illustrator, Photoshop, UX Design, Creative Writing, Blog Writing, Content Writing, Copywriting, Technical Writing",design,15,120,4.9,56,0.92,9.7,0.91
+FR0097,"PPC, Email Marketing, PHP, Ruby, Django, Node.js, Java",marketing,7,64,4.7,69,0.94,24.9,0.89
+FR0098,"Content Marketing, SEO, Digital Marketing, PPC, Social Media Marketing, Swift, C++",marketing,13,67,4.8,99,0.82,26.6,0.92
+FR0099,"SEO, Analytics, Social Media Marketing, Content Marketing, Digital Marketing",marketing,6,63,3.6,74,0.83,6.6,0.88
+FR0100,"Content Writing, Blog Writing, Creative Writing, SEO Writing, Logo Design, Illustrator, UI Design, Photoshop",writing,1,18,4.9,80,0.92,1.9,0.87
+FR0101,"Creative Writing, SEO Writing, UX Design, Graphic Design, Logo Design, UI Design",writing,14,141,4.9,38,0.83,23.4,0.92
+FR0102,"Angular, C++",programming,1,19,4.6,30,0.87,39.0,0.85
+FR0103,"SEO Writing, Technical Writing, Blog Writing, Content Writing, Creative Writing, Digital Marketing, Analytics, PPC, SEO",writing,5,35,4.1,10,1.0,42.8,0.98
+FR0104,"SEO Writing, Content Writing, UX Design, Photoshop, UI Design, Logo Design, Figma",writing,5,30,4.9,39,0.9,39.8,0.96
+FR0105,"Analytics, SEO, Content Marketing",marketing,12,51,4.4,12,0.86,5.7,0.9
+FR0106,"UX Design, Photoshop",design,6,63,4.4,86,0.92,7.4,0.98
+FR0107,"Digital Marketing, Email Marketing, PPC, Social Media Marketing, Analytics",marketing,1,25,4.3,72,0.84,3.2,0.89
+FR0108,"Digital Marketing, Email Marketing, Social Media Marketing, SEO, Analytics",marketing,12,75,3.6,42,0.87,22.8,0.92
+FR0109,"Django, Vue.js, Swift",programming,8,39,4.8,76,0.91,40.5,0.88
+FR0110,"Swift, Java, JavaScript, Python, Angular, SEO Writing, Content Writing, Copywriting, Technical Writing",programming,11,103,4.8,100,0.91,23.8,0.9
+FR0111,"Illustrator, Figma, Photoshop, Adobe XD, Creative Writing, Copywriting, Technical Writing",design,2,33,3.7,60,0.89,4.4,0.98
+FR0112,"Email Marketing, Analytics, Content Marketing, Digital Marketing, PPC, Creative Writing, Technical Writing, SEO Writing, Copywriting",marketing,2,35,3.8,56,0.93,15.2,0.91
+FR0113,"Photoshop, Adobe XD, Illustrator, Logo Design",design,5,35,4.8,8,0.98,41.5,0.99
+FR0114,"SEO, PPC, Logo Design, Graphic Design, Illustrator, UI Design",marketing,15,135,3.5,22,0.89,17.6,0.98
+FR0115,"Content Marketing, Digital Marketing",marketing,1,25,4.7,27,0.91,40.0,0.89
+FR0116,"SEO, Digital Marketing, Social Media Marketing",marketing,4,47,4.3,37,0.89,11.0,0.96
+FR0117,"SEO Writing, Content Writing",writing,5,65,4.5,66,0.96,35.4,0.86
+FR0118,"SQL, Python, Angular, Ruby, JavaScript, Analytics, Email Marketing, Content Marketing, Digital Marketing, Social Media Marketing",programming,3,33,4.0,16,0.96,3.7,0.86
+FR0119,"Creative Writing, SEO Writing",writing,7,85,3.7,32,0.83,47.3,0.98
+FR0120,"Figma, Adobe XD",design,13,106,4.1,41,0.92,4.0,0.87
+FR0121,"PPC, Content Marketing",marketing,12,87,3.6,85,0.98,38.4,0.91
+FR0122,"Email Marketing, SEO, Analytics, PPC, Graphic Design, Photoshop, Logo Design",marketing,9,96,4.0,76,0.93,9.6,0.94
+FR0123,"C++, React, JavaScript, Django, Vue.js",programming,8,55,3.7,81,0.83,16.1,0.99
+FR0124,"Logo Design, UI Design, PHP, C++, Python, Angular",design,12,99,3.7,64,0.96,34.1,0.94
+FR0125,"Copywriting, Blog Writing, Creative Writing, SEO Writing, Technical Writing",writing,13,80,4.3,71,0.88,2.7,0.92
+FR0126,"Creative Writing, SEO Writing, Technical Writing",writing,1,25,4.3,12,0.98,30.6,0.86
+FR0127,"Logo Design, Adobe XD, UX Design",design,9,42,4.9,69,0.86,43.5,0.88
+FR0128,"Adobe XD, Photoshop, UI Design, UX Design, Graphic Design, Social Media Marketing, SEO, PPC, Email Marketing, Analytics",design,8,95,4.2,43,0.93,28.0,0.93
+FR0129,"PPC, Digital Marketing, Social Media Marketing, Logo Design, Adobe XD",marketing,1,24,5.0,10,0.97,44.0,0.95
+FR0130,"Digital Marketing, Social Media Marketing, Content Marketing, Email Marketing",marketing,15,150,4.8,94,0.95,46.7,0.87
+FR0131,"Creative Writing, SEO Writing, Blog Writing, Copywriting",writing,7,57,3.8,73,0.9,5.7,0.9
+FR0132,"Technical Writing, Content Writing, Blog Writing, SEO Writing",writing,9,60,3.9,67,0.98,7.0,0.85
+FR0133,"Digital Marketing, Content Marketing, SEO, Social Media Marketing, PPC, Adobe XD, UI Design, Photoshop, Figma",marketing,12,99,4.8,68,0.98,9.4,0.86
+FR0134,"Content Marketing, Digital Marketing, Email Marketing, SEO, PPC, UI Design, Photoshop, Illustrator, Adobe XD",marketing,2,21,3.8,96,0.93,8.8,0.89
+FR0135,"SEO Writing, Creative Writing, Content Writing, Technical Writing, Blog Writing",writing,15,60,4.8,19,0.84,2.1,0.86
+FR0136,"Django, React, Angular, Digital Marketing, Social Media Marketing",programming,12,135,3.7,14,0.83,47.3,0.99
+FR0137,"Creative Writing, Blog Writing, Copywriting, Content Writing, Digital Marketing, Analytics, SEO, Email Marketing, Social Media Marketing",writing,13,54,3.7,80,0.85,36.1,0.94
+FR0138,"Blog Writing, Technical Writing, SEO Writing, Content Writing, Email Marketing, SEO, Digital Marketing, Analytics, Social Media Marketing",writing,3,24,4.2,7,0.81,8.2,0.91
+FR0139,"SEO Writing, Content Writing, UX Design, Logo Design, Illustrator, Adobe XD",writing,7,85,4.1,27,0.84,42.4,0.96
+FR0140,"C++, Node.js, SEO, Social Media Marketing, Analytics",programming,13,106,3.8,6,1.0,37.6,0.9
+FR0141,"UI Design, Figma, Photoshop, Creative Writing, Blog Writing, Content Writing, SEO Writing",design,1,18,4.3,79,0.85,20.9,0.86
+FR0142,"PHP, JavaScript, SQL",programming,6,57,3.9,68,0.89,34.8,0.92
+FR0143,"Figma, Graphic Design, Adobe XD, Photoshop, Illustrator, PPC, Email Marketing, Social Media Marketing, SEO",design,7,36,4.0,66,0.86,6.6,0.94
+FR0144,"Angular, Python",programming,2,23,4.3,23,0.83,37.9,0.99
+FR0145,"UX Design, Adobe XD, Figma",design,1,25,4.2,25,0.88,30.2,0.98
+FR0146,"Creative Writing, Copywriting, Content Writing, Swift, Node.js",writing,10,75,4.7,94,0.92,44.2,0.97
+FR0147,"Graphic Design, UX Design, Adobe XD",design,14,155,4.5,80,1.0,29.7,0.96
+FR0148,"PPC, Email Marketing, Analytics, SEO, Content Marketing",marketing,8,95,3.6,13,0.94,14.3,0.96
+FR0149,"SEO Writing, Technical Writing, Creative Writing, Content Writing, Copywriting, C++, SQL, JavaScript",writing,7,57,4.6,20,0.83,5.0,0.99
+FR0150,"Creative Writing, SEO Writing, Blog Writing, Copywriting, Content Writing",writing,5,50,4.3,94,0.91,7.2,0.86
+FR0151,"Django, JavaScript, SQL, Swift, Ruby, Copywriting, Creative Writing",programming,9,105,4.3,66,0.88,33.2,0.96
+FR0152,"Django, Vue.js",programming,12,63,4.1,67,0.96,8.4,0.9
+FR0153,"Figma, Graphic Design, Illustrator, UI Design, Java, JavaScript, PHP",design,15,105,4.1,8,0.91,33.1,0.89
+FR0154,"Content Marketing, Analytics, Email Marketing, Social Media Marketing, Digital Marketing",marketing,4,31,4.4,36,0.87,25.0,0.92
+FR0155,"SEO Writing, Technical Writing",writing,9,96,4.2,91,0.92,30.5,0.99
+FR0156,"Email Marketing, PPC, UX Design, Graphic Design, Figma, Illustrator, Photoshop",marketing,7,71,3.9,85,0.83,20.5,0.87
+FR0157,"Django, SQL, Java, Adobe XD, Logo Design, Figma, Illustrator",programming,6,51,3.6,81,0.81,39.3,0.91
+FR0158,"Content Writing, Technical Writing, SEO Writing, Creative Writing",writing,1,24,4.5,79,0.9,17.4,0.94
+FR0159,"Content Marketing, Email Marketing, Digital Marketing, Content Writing, Blog Writing",marketing,11,125,4.5,68,0.81,39.8,0.89
+FR0160,"Illustrator, UI Design, Figma, Adobe XD, Logo Design, Blog Writing, Creative Writing",design,13,132,4.8,85,0.99,39.5,0.91
+FR0161,"Content Marketing, Analytics, Social Media Marketing, Digital Marketing",marketing,5,55,3.5,7,0.98,44.5,0.94
+FR0162,"Illustrator, Photoshop, Adobe XD, UI Design, React, C++",design,12,99,4.3,88,0.88,17.6,0.88
+FR0163,"Java, Node.js, SEO, Content Marketing",programming,3,24,3.6,70,0.89,5.1,1.0
+FR0164,"PPC, Digital Marketing, SEO, Email Marketing",marketing,8,79,4.4,68,0.83,19.3,0.98
+FR0165,"Email Marketing, Digital Marketing",marketing,8,63,3.5,51,0.97,38.6,0.93
+FR0166,"Node.js, Django, C++",programming,5,50,4.4,75,0.92,15.4,0.92
+FR0167,"Blog Writing, Copywriting, SEO Writing",writing,15,90,4.9,68,0.98,38.5,0.87
+FR0168,"Technical Writing, Creative Writing, Content Writing, Copywriting, Logo Design, UI Design",writing,1,21,4.8,20,0.88,10.8,0.9
+FR0169,"Node.js, Vue.js, Django, Swift, JavaScript, Blog Writing, Technical Writing, SEO Writing, Content Writing",programming,2,25,3.7,71,0.91,6.8,0.94
+FR0170,"Social Media Marketing, Content Marketing, Analytics, Digital Marketing",marketing,14,85,4.6,93,0.91,16.8,0.93
+FR0171,"SEO Writing, Creative Writing, Copywriting",writing,7,78,4.9,33,0.91,25.7,0.96
+FR0172,"SEO Writing, Creative Writing",writing,15,120,4.4,82,0.99,3.5,0.88
+FR0173,"UI Design, Illustrator, Logo Design, Graphic Design",design,9,105,4.7,69,0.95,3.9,0.88
+FR0174,"Vue.js, C++, Swift, Creative Writing, Copywriting, Technical Writing, Content Writing, Blog Writing",programming,2,33,4.7,89,0.94,11.7,0.97
+FR0175,"Analytics, PPC, Social Media Marketing",marketing,4,39,4.5,36,0.84,8.3,0.91
+FR0176,"SEO, Content Marketing, Digital Marketing, PPC, Analytics",marketing,14,127,3.6,10,1.0,19.0,0.93
+FR0177,"Creative Writing, Technical Writing, Content Writing, SEO Writing, Copywriting, SEO, Email Marketing, Content Marketing",writing,2,25,4.0,91,0.98,27.3,0.86
+FR0178,"Illustrator, Adobe XD, Digital Marketing, Social Media Marketing, PPC, Content Marketing",design,5,45,4.3,20,0.84,36.0,0.93
+FR0179,"SEO Writing, Technical Writing, Blog Writing, Python, JavaScript, Node.js, C++, Django",writing,12,75,4.5,5,1.0,2.8,0.85
+FR0180,"React, Ruby",programming,12,75,3.6,86,0.9,17.3,1.0
+FR0181,"SQL, Angular, React",programming,7,36,3.7,21,0.84,7.3,0.99
+FR0182,"Blog Writing, Copywriting, Technical Writing, Content Writing, Vue.js, SQL, Node.js, Swift",writing,7,85,4.9,72,0.8,8.7,0.91
+FR0183,"Swift, C++, Django",programming,14,113,3.7,51,0.97,31.6,0.96
+FR0184,"SEO Writing, Creative Writing, Copywriting, Blog Writing, Content Writing, Social Media Marketing, Analytics, PPC, Email Marketing, Digital Marketing",writing,10,115,4.4,6,0.97,31.6,0.9
+FR0185,"Python, Swift",programming,3,45,5.0,66,0.9,13.5,0.95
+FR0186,"Swift, Node.js, Vue.js",programming,14,85,4.2,64,0.92,1.6,0.97
+FR0187,"Illustrator, Photoshop, Adobe XD, UI Design, Social Media Marketing, PPC, Analytics",design,15,105,3.7,36,0.96,34.9,1.0
+FR0188,"Graphic Design, UX Design, Photoshop",design,8,71,3.8,19,0.9,26.7,0.94
+FR0189,"Figma, Adobe XD, Django, SQL",design,10,75,5.0,68,0.95,46.8,0.93
+FR0190,"PPC, SEO, Analytics, Email Marketing",marketing,15,90,4.5,99,0.94,42.3,0.87
+FR0191,"Photoshop, Illustrator, Adobe XD, UI Design, UX Design",design,3,42,4.1,32,0.97,25.0,0.95
+FR0192,"Java, Vue.js, Ruby, React, Photoshop, Figma, UI Design, Graphic Design, UX Design",programming,11,81,3.5,26,0.8,15.2,0.89
+FR0193,"SEO Writing, Technical Writing, Content Writing, Creative Writing, Copywriting",writing,4,39,4.0,79,0.92,13.9,0.91
+FR0194,"SEO, Social Media Marketing, PPC, Copywriting, SEO Writing, Technical Writing",marketing,13,106,4.0,18,0.95,9.8,0.88
+FR0195,"Analytics, Email Marketing, Digital Marketing, Social Media Marketing, Adobe XD, Logo Design",marketing,6,69,4.0,94,0.95,42.5,0.91
+FR0196,"Copywriting, Blog Writing",writing,12,63,3.6,25,0.97,43.9,0.88
+FR0197,"Illustrator, UI Design",design,5,30,4.7,62,0.86,30.5,0.98
+FR0198,"PPC, Content Marketing, Analytics, SEO, JavaScript, Python, React, Django",marketing,1,22,4.2,55,0.91,47.4,0.95
+FR0199,"UX Design, Logo Design, Graphic Design",design,15,150,4.6,96,0.89,25.4,0.92
+FR0200,"PHP, Vue.js, JavaScript, React, Node.js, Illustrator, UI Design",programming,9,51,3.7,83,0.84,22.3,0.9
+FR0201,"Content Writing, Creative Writing, Technical Writing, SEO Writing",writing,7,43,5.0,12,0.92,27.3,0.85
+FR0202,"Social Media Marketing, Digital Marketing, Content Marketing, SEO, Analytics",marketing,11,103,4.9,64,0.82,8.1,0.94
+FR0203,"Copywriting, SEO Writing",writing,11,92,3.5,27,0.85,22.1,0.92
+FR0204,"Django, Vue.js, Swift",programming,3,27,4.3,75,0.91,18.8,0.94
+FR0205,"Logo Design, UX Design, Graphic Design, Illustrator, Photoshop",design,14,127,4.5,100,0.91,13.0,0.88
+FR0206,"PHP, Angular, Python",programming,5,65,4.4,15,0.93,34.8,0.92
+FR0207,"Adobe XD, Photoshop, Illustrator, UI Design, Java, SQL, Django, Angular, React",design,12,111,4.8,32,0.85,2.2,0.96
+FR0208,"Ruby, SQL, Swift, C++, UX Design, Adobe XD, Photoshop",programming,8,47,4.8,20,0.83,7.5,0.91
+FR0209,"Vue.js, SQL, JavaScript, Angular, C++",programming,10,55,4.3,18,0.82,2.9,0.94
+FR0210,"UX Design, UI Design, Figma, Illustrator",design,11,103,4.3,89,0.82,3.7,0.88
+FR0211,"PPC, Social Media Marketing, Digital Marketing",marketing,10,85,4.3,68,0.81,32.9,0.87
+FR0212,"Creative Writing, SEO Writing, Technical Writing, Copywriting, Content Writing, PHP, Python, SQL, React",writing,6,57,3.5,18,0.89,20.3,0.92
+FR0213,"Logo Design, Illustrator, UX Design, Photoshop",design,1,25,4.6,30,0.88,19.0,0.96
+FR0214,"Node.js, PHP, Adobe XD, UX Design, Photoshop, Figma",programming,5,65,4.9,95,0.99,37.3,0.91
+FR0215,"SQL, Vue.js, Django, C++, React",programming,2,27,3.6,21,0.8,17.5,0.97
+FR0216,"Analytics, Digital Marketing",marketing,4,55,4.7,87,0.99,37.9,0.87
+FR0217,"Ruby, SQL, Django, React, SEO Writing, Blog Writing, Content Writing, Creative Writing, Technical Writing",programming,11,48,4.0,65,0.95,5.8,0.97
+FR0218,"React, SQL, Angular, Vue.js, Swift, Content Marketing, Email Marketing, Analytics, Digital Marketing",programming,5,45,3.7,15,0.94,41.9,0.88
+FR0219,"Figma, Logo Design, SEO Writing, Blog Writing, Copywriting, Content Writing",design,6,45,4.7,29,0.83,25.0,0.9
+FR0220,"Social Media Marketing, SEO, Email Marketing, SEO Writing, Content Writing, Blog Writing, Copywriting",marketing,7,43,4.7,50,0.95,37.3,0.99
+FR0221,"Java, Vue.js, Django, Node.js, PHP, SEO Writing, Copywriting, Creative Writing, Technical Writing, Blog Writing",programming,8,71,3.7,88,0.9,9.8,0.92
+FR0222,"Django, Angular, Ruby, Swift, C++, Social Media Marketing, PPC, SEO, Digital Marketing",programming,8,55,4.4,71,0.93,31.7,0.85
+FR0223,"Blog Writing, Creative Writing, Technical Writing, Copywriting, SEO Writing, UI Design, Illustrator",writing,1,19,4.9,17,0.93,10.0,0.86
+FR0224,"Content Writing, SEO Writing",writing,11,92,4.7,48,0.82,8.6,0.96
+FR0225,"Java, Django, SQL, React, Swift, UX Design, UI Design, Figma, Graphic Design",programming,13,106,3.9,19,0.83,23.4,0.85
+FR0226,"Illustrator, Photoshop, Adobe XD, SEO Writing, Copywriting, Blog Writing, Creative Writing",design,12,63,4.1,69,0.82,35.3,0.87
+FR0227,"Digital Marketing, Email Marketing, SEO",marketing,11,70,3.6,81,0.98,4.9,0.91
+FR0228,"Analytics, Email Marketing, SEO, PPC, Social Media Marketing",marketing,12,123,3.9,17,0.94,25.9,0.89
+FR0229,"Technical Writing, Content Writing, Creative Writing",writing,3,27,3.8,86,0.91,14.9,0.89
+FR0230,"PPC, Digital Marketing, Email Marketing, Content Marketing",marketing,10,95,4.5,79,0.82,20.2,0.87
+FR0231,"React, SQL, PHP, JavaScript",programming,1,19,4.0,70,0.88,46.6,0.99
+FR0232,"Angular, Django, Digital Marketing, Analytics, Social Media Marketing, SEO, Content Marketing",programming,7,57,5.0,76,0.84,47.2,0.86
+FR0233,"SQL, Angular",programming,13,54,5.0,79,0.98,8.5,0.99
+FR0234,"Content Marketing, Analytics, Social Media Marketing, PPC, SEO, Content Writing, Technical Writing, Copywriting, Creative Writing",marketing,7,50,4.2,66,0.83,6.2,0.97
+FR0235,"Photoshop, Adobe XD, Logo Design, UI Design",design,1,25,4.8,28,0.92,29.4,0.88
+FR0236,"JavaScript, PHP, C++, Vue.js",programming,4,39,4.7,46,0.87,9.8,0.97
+FR0237,"Creative Writing, Blog Writing, Content Writing, Technical Writing, SEO Writing",writing,11,59,4.4,88,0.87,32.3,0.97
+FR0238,"Creative Writing, Content Writing, UX Design, Logo Design, Graphic Design, Figma, Photoshop",writing,3,30,4.6,16,0.95,27.6,0.92
+FR0239,"Angular, Swift",programming,12,63,3.7,76,0.94,34.1,0.97
+FR0240,"Blog Writing, Copywriting, SEO Writing",writing,13,132,4.7,61,0.97,10.9,0.89
+FR0241,"Technical Writing, Copywriting, Blog Writing, Creative Writing, Logo Design, Figma",writing,8,63,3.7,46,0.95,22.3,0.93
+FR0242,"JavaScript, Python, Digital Marketing, Email Marketing",programming,10,65,3.6,13,0.95,41.7,0.9
+FR0243,"Logo Design, UX Design, Graphic Design, Illustrator, UI Design",design,9,87,4.7,83,0.98,6.2,0.91
+FR0244,"Digital Marketing, Analytics, Email Marketing, Social Media Marketing",marketing,12,111,3.6,59,0.93,21.8,0.99
+FR0245,"UI Design, UX Design, Adobe XD, PPC, Social Media Marketing, Digital Marketing, Analytics, Email Marketing",design,8,39,4.0,27,0.87,6.6,0.91
+FR0246,"UI Design, Illustrator",design,6,39,3.9,63,0.99,46.4,0.86
+FR0247,"Creative Writing, Copywriting, Technical Writing, Content Writing",writing,2,23,4.2,30,0.85,30.7,1.0
+FR0248,"Email Marketing, Content Marketing",marketing,8,95,4.2,77,0.98,35.0,0.91
+FR0249,"Java, Python, Vue.js, PHP, React",programming,5,65,4.7,83,0.89,29.6,0.94
+FR0250,"Adobe XD, UI Design",design,7,78,4.0,21,0.81,25.8,0.97
+FR0251,"Graphic Design, Figma, UI Design",design,15,75,5.0,32,0.93,40.2,0.99
+FR0252,"Swift, SQL, Python, Node.js",programming,6,75,3.8,71,0.83,34.2,0.96
+FR0253,"Django, C++, Java, React, PHP, Technical Writing, Blog Writing",programming,7,64,4.8,62,0.94,14.2,0.93
+FR0254,"Vue.js, SQL, Django, SEO, Email Marketing",programming,1,20,4.0,31,0.9,13.2,1.0
+FR0255,"Photoshop, Figma, Graphic Design",design,6,75,4.4,55,0.98,26.7,0.89
+FR0256,"Creative Writing, Blog Writing",writing,9,78,4.6,31,1.0,31.0,0.97
+FR0257,"Creative Writing, Blog Writing, Content Writing, SEO Writing, Copywriting, Digital Marketing, Analytics, Email Marketing",writing,6,75,3.9,99,1.0,35.8,0.93
+FR0258,"Digital Marketing, PPC, Content Marketing, Django, Vue.js, JavaScript",marketing,6,69,4.0,81,0.92,31.5,0.94
+FR0259,"Creative Writing, SEO Writing, Content Writing, Blog Writing",writing,5,65,4.5,25,0.9,3.6,0.89
+FR0260,"Swift, React, JavaScript, Blog Writing, Content Writing, Copywriting, Creative Writing",programming,15,135,4.2,47,0.89,19.6,0.89
+FR0261,"Blog Writing, Technical Writing, Figma, Illustrator, Adobe XD",writing,15,75,4.5,9,0.99,38.5,0.91
+FR0262,"Photoshop, UX Design, Illustrator, Graphic Design, Figma, Django, Node.js",design,6,45,4.6,26,0.93,19.0,0.98
+FR0263,"Figma, UX Design, UI Design",design,3,30,3.6,67,0.92,28.1,0.98
+FR0264,"Python, SQL, Java, SEO Writing, Creative Writing, Blog Writing",programming,12,123,4.1,32,0.97,7.2,0.88
+FR0265,"Copywriting, SEO Writing, Creative Writing, Blog Writing, Content Writing, React, Python, Node.js",writing,10,115,4.6,12,0.93,18.6,0.97
+FR0266,"C++, Vue.js, Python, PHP, Email Marketing, SEO, PPC, Digital Marketing",programming,14,141,3.8,10,0.91,20.2,0.87
+FR0267,"Creative Writing, SEO Writing",writing,5,60,3.8,36,0.84,4.6,0.92
+FR0268,"Graphic Design, Logo Design, Figma, UI Design, SEO, Digital Marketing, Email Marketing, Content Marketing, PPC",design,10,55,4.6,11,0.88,36.6,0.94
+FR0269,"Figma, Graphic Design",design,2,29,4.3,93,0.85,43.4,0.92
+FR0270,"Angular, Python, JavaScript, Swift",programming,1,18,4.4,40,0.8,27.2,0.93
+FR0271,"Photoshop, Logo Design, UI Design, SEO Writing, Content Writing, Creative Writing, Blog Writing",design,1,18,3.7,22,0.92,9.0,0.89
+FR0272,"Photoshop, UI Design, Adobe XD, Logo Design, SEO, Analytics, Content Marketing, Digital Marketing",design,14,113,3.7,34,0.93,2.0,0.94
+FR0273,"SEO, Social Media Marketing, Content Marketing, Django, Python, C++",marketing,10,55,4.9,60,0.86,34.8,0.9
+FR0274,"UX Design, Illustrator, Vue.js, Angular",design,6,69,4.2,69,0.9,10.0,0.88
+FR0275,"Content Writing, SEO Writing, Blog Writing",writing,14,99,4.4,88,0.99,34.8,0.96
+FR0276,"Ruby, Angular, Django, SEO Writing, Blog Writing, Creative Writing",programming,12,111,4.4,57,0.92,13.3,0.99
+FR0277,"Copywriting, SEO Writing, Technical Writing, Creative Writing, Content Writing, Analytics, PPC, Content Marketing, SEO",writing,5,40,4.1,44,0.98,30.8,0.86
+FR0278,"Ruby, C++",programming,8,47,4.7,99,0.93,17.2,0.97
+FR0279,"Photoshop, Logo Design, Figma, UI Design, Adobe XD",design,15,150,3.6,63,0.83,16.8,0.92
+FR0280,"Blog Writing, Content Writing",writing,14,99,4.8,56,0.82,13.8,0.93
+FR0281,"UX Design, Graphic Design, Figma, UI Design, Illustrator",design,12,63,3.6,46,0.82,5.7,0.95
+FR0282,"Creative Writing, Technical Writing, Content Writing, Copywriting, SEO, Email Marketing, Social Media Marketing, Digital Marketing, Content Marketing",writing,7,71,4.8,32,0.94,38.1,0.98
+FR0283,"Creative Writing, Blog Writing, Copywriting",writing,8,47,4.4,99,0.92,11.1,0.98
+FR0284,"Figma, Photoshop, Illustrator, Email Marketing, Content Marketing, PPC, Social Media Marketing, SEO",design,14,57,3.5,11,0.81,31.5,0.97
+FR0285,"Vue.js, Node.js, PHP, Copywriting, Technical Writing, Blog Writing",programming,6,51,3.9,32,0.81,9.5,0.88
+FR0286,"Digital Marketing, PPC, Social Media Marketing",marketing,3,27,4.6,45,0.83,19.8,0.92
+FR0287,"Blog Writing, Copywriting, Technical Writing, Python, JavaScript, Ruby, Django, C++",writing,7,78,4.7,7,0.96,8.0,0.87
+FR0288,"JavaScript, Java, Ruby",programming,14,127,4.8,94,0.84,31.7,0.89
+FR0289,"Copywriting, Creative Writing, Content Writing, Technical Writing, SEO Writing, Digital Marketing, Analytics, PPC, Social Media Marketing, Content Marketing",writing,2,33,3.6,90,0.9,41.6,0.93
+FR0290,"Email Marketing, Digital Marketing, SEO, PPC, Social Media Marketing",marketing,6,51,4.6,43,0.8,29.6,0.99
+FR0291,"UI Design, Adobe XD, Logo Design, C++, Java, Python, SQL",design,9,42,4.4,6,0.96,24.7,0.94
+FR0292,"Ruby, JavaScript, Email Marketing, SEO, Social Media Marketing",programming,10,75,4.8,55,0.96,20.8,0.94
+FR0293,"Swift, PHP, Django, Python, C++",programming,12,123,4.4,87,0.96,39.1,0.98
+FR0294,"Figma, Logo Design, Graphic Design, Adobe XD, UX Design",design,6,51,4.3,97,0.8,8.2,0.99
+FR0295,"React, Angular, Content Marketing, Digital Marketing",programming,5,60,4.1,100,0.84,1.0,0.88
+FR0296,"Analytics, PPC",marketing,10,115,4.0,59,0.84,46.0,0.93
+FR0297,"Python, SQL, Ruby, Django",programming,6,51,4.6,21,0.92,18.5,0.93
+FR0298,"Content Marketing, Analytics, Digital Marketing, SEO",marketing,15,165,4.8,24,0.81,33.6,0.98
+FR0299,"Analytics, SEO, Digital Marketing",marketing,1,19,4.7,91,0.99,24.4,0.86
+FR0300,"React, Django",programming,13,132,4.9,97,0.95,11.9,0.91
+FR0301,"Creative Writing, SEO Writing, Technical Writing",writing,12,87,3.9,61,0.98,28.5,0.86
+FR0302,"Figma, Adobe XD, UX Design, Logo Design",design,3,33,4.9,61,0.84,44.5,0.9
+FR0303,"Photoshop, UI Design, Graphic Design, Illustrator, Adobe XD",design,12,51,4.1,5,0.86,11.7,0.99
+FR0304,"Content Writing, Technical Writing, SEO Writing, Creative Writing, Swift, Python, Vue.js, SQL",writing,7,64,3.6,88,0.95,41.7,0.85
+FR0305,"Vue.js, SQL, Email Marketing, Digital Marketing, Social Media Marketing, SEO",programming,12,135,4.4,15,0.8,34.5,1.0
+FR0306,"Technical Writing, Blog Writing, SEO Writing, Content Writing",writing,9,96,4.8,55,0.98,5.8,0.94
+FR0307,"UX Design, Illustrator, Graphic Design, UI Design, Django, Java, Angular, SQL",design,9,51,4.3,80,0.92,33.7,0.98
+FR0308,"Analytics, Content Marketing, UI Design, UX Design, Photoshop, Graphic Design, Adobe XD",marketing,12,75,4.7,97,0.96,32.6,0.88
+FR0309,"Illustrator, Photoshop, Logo Design, Adobe XD, UI Design",design,9,42,5.0,80,0.85,1.3,0.96
+FR0310,"Analytics, Email Marketing",marketing,9,51,4.5,48,0.97,30.4,0.9
+FR0311,"Blog Writing, Content Writing, Copywriting, SEO Writing, Technical Writing, Figma, Adobe XD",writing,14,71,4.6,16,0.89,36.3,0.87
+FR0312,"Figma, Illustrator, UX Design, Graphic Design, Adobe XD, Content Writing, Creative Writing",design,14,85,4.5,9,0.81,43.4,0.9
+FR0313,"Java, C++, SQL, PHP, Angular",programming,9,69,3.5,98,0.81,18.5,0.99
+FR0314,"Digital Marketing, Analytics, UX Design, Figma, Graphic Design, Logo Design, Photoshop",marketing,3,33,3.6,29,0.97,10.8,0.99
+FR0315,"JavaScript, Java, React",programming,7,50,3.5,64,0.92,32.2,0.87
+FR0316,"SEO, Digital Marketing, PPC, Email Marketing, Analytics",marketing,8,39,4.3,81,0.93,29.6,0.98
+FR0317,"SEO, Content Marketing",marketing,4,43,4.6,61,0.9,33.2,0.91
+FR0318,"PPC, Social Media Marketing, SEO, Digital Marketing, Content Marketing",marketing,9,60,3.7,84,0.83,23.9,0.85
+FR0319,"Swift, Python, Vue.js, Analytics, Digital Marketing, Social Media Marketing",programming,1,22,4.4,44,0.95,38.2,0.98
+FR0320,"SEO, PPC",marketing,3,45,4.0,86,0.98,13.4,0.99
+FR0321,"Content Marketing, PPC, Digital Marketing, Email Marketing, Analytics",marketing,11,59,5.0,60,0.93,36.4,0.99
+FR0322,"Digital Marketing, Analytics, PPC, Email Marketing",marketing,3,24,3.7,53,0.86,46.5,0.9
+FR0323,"Logo Design, Adobe XD, Graphic Design",design,13,93,3.7,78,0.88,14.9,0.96
+FR0324,"Content Marketing, Digital Marketing, Email Marketing, PPC",marketing,9,60,3.6,43,0.82,22.0,0.95
+FR0325,"Content Marketing, SEO, Social Media Marketing, SEO Writing, Copywriting, Blog Writing, Technical Writing",marketing,6,69,4.9,36,0.86,44.9,0.98
+FR0326,"Vue.js, Python",programming,15,150,4.3,19,0.96,46.4,0.94
+FR0327,"Node.js, Swift",programming,13,67,3.9,5,0.91,35.8,0.97
+FR0328,"JavaScript, Swift, Angular, Java, Blog Writing, Technical Writing, Copywriting, SEO Writing, Creative Writing",programming,14,85,4.9,77,0.98,7.0,0.9
+FR0329,"UX Design, Logo Design, Figma, Illustrator, Digital Marketing, Analytics",design,12,87,4.1,96,0.87,45.6,0.91
+FR0330,"Creative Writing, SEO Writing, Technical Writing, Copywriting, Blog Writing, Content Marketing, Social Media Marketing, Digital Marketing, Analytics",writing,13,132,4.4,18,0.82,14.2,0.9
+FR0331,"Python, Swift, React, C++, Django, SEO Writing, Creative Writing",programming,7,57,3.5,79,0.86,30.9,0.87
+FR0332,"Email Marketing, Analytics, Content Marketing, PPC, Digital Marketing",marketing,11,81,3.6,31,0.96,14.8,0.95
+FR0333,"SEO Writing, Content Writing, Blog Writing, Technical Writing, Copywriting",writing,2,29,4.1,44,0.83,46.7,0.92
+FR0334,"Social Media Marketing, Analytics, Email Marketing, PPC, SEO, Vue.js, Swift",marketing,3,42,4.7,17,0.92,34.7,0.97
+FR0335,"C++, Python, React, Java, Ruby",programming,12,99,4.8,72,0.96,2.9,0.91
+FR0336,"Analytics, Social Media Marketing, PPC, Email Marketing, Technical Writing, Blog Writing, SEO Writing, Copywriting, Content Writing",marketing,15,135,3.7,22,0.81,22.0,0.98
+FR0337,"Logo Design, UX Design, Graphic Design, Figma, Email Marketing, SEO, Content Marketing",design,8,39,4.0,40,0.84,16.3,0.86
+FR0338,"SEO Writing, Blog Writing, Creative Writing, Content Writing",writing,4,31,3.6,49,0.85,11.1,0.89
+FR0339,"Content Marketing, Email Marketing, Analytics, SEO, Digital Marketing",marketing,12,51,4.7,22,0.91,7.2,0.95
+FR0340,"Content Writing, Copywriting, Creative Writing, Technical Writing, PPC, Content Marketing, SEO",writing,15,150,4.6,84,0.93,19.4,0.88
+FR0341,"Copywriting, Technical Writing, SEO Writing, Analytics, PPC, Social Media Marketing",writing,2,33,3.9,60,0.8,42.4,0.97
+FR0342,"Copywriting, Creative Writing, Technical Writing, Content Writing, Blog Writing, UI Design, UX Design, Illustrator",writing,1,23,4.9,6,0.8,22.5,0.96
+FR0343,"Ruby, C++, Java, Django, SEO Writing, Copywriting, Creative Writing, Blog Writing",programming,8,71,4.7,36,0.93,14.5,0.85
+FR0344,"Digital Marketing, SEO, Analytics, PPC, Email Marketing, Content Writing, SEO Writing",marketing,1,19,3.6,42,0.83,8.8,0.97
+FR0345,"Creative Writing, Blog Writing, Technical Writing",writing,7,57,4.6,96,0.97,14.0,0.98
+FR0346,"Illustrator, Figma",design,7,64,4.5,96,0.94,9.8,0.97
+FR0347,"PHP, Python",programming,5,30,4.6,46,0.93,43.8,0.98
+FR0348,"SEO, Content Marketing",marketing,7,50,4.4,8,0.95,29.2,0.9
+FR0349,"Ruby, Angular",programming,15,90,3.5,6,0.99,34.6,0.96
+FR0350,"Technical Writing, Blog Writing, Analytics, Content Marketing, PPC",writing,14,127,4.0,91,0.83,11.1,0.85
+FR0351,"Technical Writing, Creative Writing, JavaScript, SQL, Ruby",writing,8,39,4.8,90,0.87,34.3,0.9
+FR0352,"UX Design, UI Design, Graphic Design, Adobe XD",design,14,57,4.9,53,0.91,23.0,1.0
+FR0353,"Technical Writing, Creative Writing, Content Writing, SEO Writing",writing,6,45,4.1,83,0.93,41.6,0.87
+FR0354,"Illustrator, Figma, Graphic Design, UX Design",design,5,30,3.7,74,0.9,28.8,0.97
+FR0355,"Content Marketing, Digital Marketing, SEO, Analytics, Email Marketing, Blog Writing, Content Writing, SEO Writing",marketing,13,119,4.4,46,0.81,36.6,0.87
+FR0356,"Copywriting, Creative Writing, Blog Writing, Adobe XD, UX Design, Graphic Design, Figma",writing,12,75,3.7,19,0.84,15.4,0.89
+FR0357,"SEO Writing, Blog Writing",writing,8,79,3.8,19,0.82,16.5,0.9
+FR0358,"Copywriting, SEO Writing, Creative Writing, Content Writing, Technical Writing",writing,12,75,4.0,36,0.98,7.1,0.97
+FR0359,"SQL, Swift, Node.js, Vue.js",programming,5,40,5.0,91,0.9,42.1,0.87
+FR0360,"Analytics, Social Media Marketing, Content Marketing, Email Marketing, UI Design, Figma, Illustrator, Adobe XD",marketing,4,43,4.8,55,0.82,31.9,0.99
+FR0361,"PPC, Analytics, Social Media Marketing, SEO, Digital Marketing",marketing,4,35,4.4,12,0.81,5.7,0.86
+FR0362,"Digital Marketing, Social Media Marketing, PPC",marketing,7,71,4.0,92,0.96,38.1,0.96
+FR0363,"Analytics, PPC, Email Marketing",marketing,6,39,4.6,28,0.96,30.6,0.96
+FR0364,"Adobe XD, Graphic Design, UI Design",design,7,57,4.6,76,0.95,15.3,0.92
+FR0365,"Content Marketing, Email Marketing, JavaScript, Java, Vue.js",marketing,11,70,4.2,5,0.98,16.5,0.88
+FR0366,"Angular, Swift, SQL",programming,1,20,5.0,46,0.99,12.1,0.93
+FR0367,"React, Node.js, Angular, Java, Swift, Graphic Design, Logo Design, UX Design, Adobe XD",programming,8,95,4.1,9,0.81,29.0,0.98
+FR0368,"Blog Writing, Content Writing, SEO Writing, Creative Writing",writing,4,55,4.5,86,0.84,7.7,0.98
+FR0369,"Digital Marketing, Analytics, Email Marketing, SEO, Content Writing, Technical Writing, Copywriting, Blog Writing, Creative Writing",marketing,6,45,3.8,43,0.88,3.4,0.86
+FR0370,"Java, Vue.js, Swift",programming,1,21,4.2,70,0.83,16.6,0.9
+FR0371,"Figma, Logo Design, Photoshop, UI Design, Vue.js, Python",design,7,36,4.2,27,0.85,20.3,0.92
+FR0372,"UX Design, Illustrator, Graphic Design, Photoshop, SEO, Content Marketing, PPC, Social Media Marketing",design,1,18,3.6,28,0.93,11.8,1.0
+FR0373,"Ruby, Java, React, Django, Swift, Copywriting, Blog Writing",programming,6,69,4.4,83,0.89,45.8,0.9
+FR0374,"Adobe XD, Graphic Design, UI Design, Figma, Photoshop",design,3,42,3.8,96,0.94,41.6,0.86
+FR0375,"Ruby, Python, Angular, Django, React, Creative Writing, Technical Writing",programming,14,141,4.6,62,0.99,3.7,0.95
+FR0376,"Email Marketing, Analytics, Blog Writing, Content Writing",marketing,11,125,4.3,36,0.88,46.7,0.9
+FR0377,"SEO Writing, Copywriting, Technical Writing, Content Writing, Django, Vue.js, React",writing,10,115,4.8,66,0.84,20.6,0.99
+FR0378,"Illustrator, Graphic Design, Logo Design, UI Design, Content Marketing, Digital Marketing, Analytics, PPC, SEO",design,11,114,4.6,93,0.95,42.4,0.92
+FR0379,"Copywriting, Blog Writing, SEO Writing, Creative Writing, UI Design, UX Design, Illustrator, Adobe XD",writing,9,105,4.4,7,0.9,17.7,0.99
+FR0380,"SEO Writing, Creative Writing, Blog Writing, Technical Writing, Copywriting, Graphic Design, Logo Design, UI Design",writing,2,29,4.3,27,0.97,1.3,0.95
+FR0381,"Technical Writing, SEO Writing, Copywriting, Content Writing, Blog Writing, C++, SQL",writing,13,132,4.8,23,0.93,36.4,0.91
+FR0382,"SEO Writing, Creative Writing, Content Writing, UX Design, Adobe XD",writing,14,127,4.2,99,1.0,28.9,0.86
+FR0383,"UI Design, Photoshop, Figma, PPC, Social Media Marketing",design,4,47,4.3,18,0.95,19.8,1.0
+FR0384,"Content Marketing, Digital Marketing, Social Media Marketing, Content Writing, Copywriting",marketing,7,71,4.0,16,0.96,11.5,0.99
+FR0385,"Content Writing, Copywriting, UX Design, UI Design, Illustrator, Adobe XD",writing,6,51,4.4,82,0.98,24.2,0.91
+FR0386,"Swift, Java, Node.js",programming,10,105,3.6,80,0.89,27.1,0.96
+FR0387,"Swift, Python, Email Marketing, Content Marketing",programming,8,47,4.0,71,0.95,8.8,0.92
+FR0388,"Blog Writing, Copywriting, Content Writing, UI Design, UX Design, Adobe XD",writing,11,92,4.7,59,0.93,34.6,0.97
+FR0389,"Graphic Design, Figma, Photoshop, Logo Design, Adobe XD",design,1,18,3.6,89,0.81,38.8,0.98
+FR0390,"PHP, SQL, JavaScript, C++, Illustrator, Photoshop, Adobe XD, Figma, Graphic Design",programming,6,33,4.0,76,0.87,34.2,0.99
+FR0391,"Swift, Ruby, C++, Angular, Django",programming,15,150,4.3,5,0.89,41.7,0.96
+FR0392,"Social Media Marketing, Content Marketing, Email Marketing, Angular, JavaScript, PHP, C++",marketing,2,31,3.6,12,0.85,4.3,0.9
+FR0393,"Copywriting, Creative Writing, Content Writing, Technical Writing, Blog Writing",writing,9,96,4.7,15,0.81,14.6,0.98
+FR0394,"Figma, Adobe XD, Photoshop, Illustrator, UI Design, PPC, Content Marketing, Analytics, Email Marketing",design,1,19,4.3,51,0.98,33.9,0.96
+FR0395,"Node.js, SQL, Ruby, Swift, Python, Analytics, SEO",programming,5,35,4.3,6,0.93,18.2,0.86
+FR0396,"C++, React, Node.js, Python",programming,13,106,4.4,98,0.82,26.7,0.93
+FR0397,"Illustrator, UX Design, Graphic Design",design,15,120,4.2,85,0.87,24.9,0.99
+FR0398,"Node.js, Ruby, C++, Swift, Content Marketing, Social Media Marketing",programming,10,65,4.9,50,0.84,29.1,0.9
+FR0399,"Illustrator, Photoshop, UX Design, Logo Design",design,15,105,4.2,62,0.92,19.2,0.86
+FR0400,"C++, JavaScript, Vue.js, PHP, Python, Copywriting, Content Writing, Technical Writing, Blog Writing",programming,10,75,4.9,56,0.93,23.1,0.95
+FR0401,"Technical Writing, SEO Writing, SEO, Digital Marketing, Social Media Marketing, Content Marketing, Email Marketing",writing,12,111,4.1,7,0.95,29.7,0.91
+FR0402,"Django, Python, SQL, Swift, Node.js, Social Media Marketing, Content Marketing",programming,2,33,4.1,78,0.82,5.6,0.85
+FR0403,"Java, Node.js, PHP, React",programming,4,51,4.6,34,0.93,40.3,0.86
+FR0404,"Analytics, Content Marketing, Email Marketing, Social Media Marketing, Digital Marketing, C++, JavaScript",marketing,12,135,3.5,77,0.97,17.7,0.89
+FR0405,"Angular, Vue.js, Node.js",programming,3,33,3.5,34,0.98,48.0,0.95
+FR0406,"Illustrator, UI Design, Figma, SEO Writing, Technical Writing, Blog Writing, Content Writing",design,11,103,4.9,47,0.81,25.8,0.88
+FR0407,"Content Writing, Copywriting, Node.js, Angular, C++, Python",writing,5,55,4.3,75,0.91,41.3,1.0
+FR0408,"Adobe XD, Photoshop, UI Design, Figma, Graphic Design",design,11,125,3.7,63,0.81,15.5,0.94
+FR0409,"PHP, Ruby",programming,9,96,4.0,66,0.81,39.5,0.87
+FR0410,"SQL, Java, Copywriting, Blog Writing, Creative Writing, Content Writing, SEO Writing",programming,4,27,4.8,70,0.84,30.4,0.86
+FR0411,"SQL, Vue.js, Java, Ruby",programming,1,25,3.5,24,0.81,31.6,1.0
+FR0412,"Adobe XD, Illustrator, Photoshop, SEO Writing, Copywriting, Creative Writing, Blog Writing",design,8,47,4.0,99,0.93,28.1,0.97
+FR0413,"Copywriting, Content Writing",writing,1,20,4.7,66,0.8,45.6,0.85
+FR0414,"SEO Writing, Technical Writing, Creative Writing, Content Writing, Blog Writing",writing,10,45,5.0,18,0.9,14.1,0.89
+FR0415,"Vue.js, JavaScript, Python",programming,4,47,5.0,15,0.95,20.6,0.94
+FR0416,"Logo Design, Illustrator, UX Design, Figma, Graphic Design, Content Marketing, SEO, Email Marketing, Analytics",design,8,95,3.8,97,0.89,3.9,0.99
+FR0417,"Figma, UX Design, Logo Design",design,2,31,4.8,39,0.99,39.0,0.92
+FR0418,"Social Media Marketing, Content Marketing, Adobe XD, Illustrator, Photoshop, UX Design, Logo Design",marketing,12,87,5.0,87,0.83,13.3,0.87
+FR0419,"Copywriting, Technical Writing, C++, Angular",writing,2,35,4.4,73,0.8,43.1,0.86
+FR0420,"Django, Java, Vue.js, Digital Marketing, Email Marketing, PPC",programming,13,132,4.8,42,0.82,9.4,0.93
+FR0421,"C++, Angular, React, Node.js, Python",programming,3,24,4.9,46,0.93,6.4,0.99
+FR0422,"Logo Design, Illustrator, UX Design, Photoshop, UI Design",design,4,55,3.7,7,0.97,2.7,0.87
+FR0423,"PPC, Digital Marketing, SEO, Email Marketing, Content Marketing, JavaScript, PHP",marketing,9,78,4.2,51,0.88,42.7,0.95
+FR0424,"Creative Writing, SEO Writing, Content Writing, Copywriting, Technical Writing",writing,8,39,4.5,77,0.9,43.6,0.85
+FR0425,"Digital Marketing, PPC, Social Media Marketing, Content Marketing, UI Design, Illustrator, UX Design, Photoshop, Figma",marketing,4,35,4.5,90,0.92,30.4,0.88
+FR0426,"SEO, Social Media Marketing, Email Marketing, Analytics",marketing,3,27,4.9,33,0.89,7.9,0.86
+FR0427,"Photoshop, Illustrator, Email Marketing, Social Media Marketing, PPC, Content Marketing",design,13,67,3.8,79,0.93,13.8,0.96
+FR0428,"Logo Design, UI Design, Figma, Photoshop, Graphic Design",design,11,92,3.6,99,0.81,7.8,0.9
+FR0429,"Java, Django, PHP, Vue.js",programming,12,123,3.6,100,0.83,29.0,0.99
+FR0430,"Social Media Marketing, Content Marketing, SEO, Digital Marketing, PPC",marketing,3,39,3.6,70,0.85,34.5,0.89
+FR0431,"Adobe XD, Graphic Design, Illustrator, SEO Writing, Technical Writing",design,12,87,4.3,51,0.94,10.4,0.99
+FR0432,"JavaScript, Vue.js, Swift",programming,11,48,4.9,21,0.84,18.0,0.98
+FR0433,"Node.js, Ruby, JavaScript, Django, Creative Writing, Content Writing, Blog Writing, SEO Writing, Technical Writing",programming,7,36,4.9,7,0.85,44.3,0.85
+FR0434,"Technical Writing, Copywriting, SQL, Node.js, PHP, React",writing,13,132,4.7,91,0.81,8.2,0.9
+FR0435,"Photoshop, Illustrator, Logo Design, Adobe XD, UX Design",design,10,65,5.0,18,0.89,45.8,0.94
+FR0436,"UI Design, Figma, Graphic Design, Photoshop, Creative Writing, Technical Writing, Blog Writing",design,2,29,4.2,93,0.82,9.9,0.86
+FR0437,"Illustrator, UX Design, Photoshop",design,13,132,4.0,33,0.98,3.5,0.98
+FR0438,"Social Media Marketing, Digital Marketing, Figma, UI Design",marketing,15,135,4.1,6,0.97,28.7,0.98
+FR0439,"Email Marketing, PPC, Analytics, SEO, Social Media Marketing",marketing,4,43,4.6,12,0.84,5.5,0.9
+FR0440,"UX Design, Illustrator, Figma",design,9,78,3.6,63,0.86,10.5,0.98
+FR0441,"Analytics, SEO, Django, Vue.js, Python, JavaScript",marketing,1,21,4.6,15,0.86,5.6,0.96
+FR0442,"SEO, Social Media Marketing, Analytics, Technical Writing, Content Writing, Blog Writing, Creative Writing, Copywriting",marketing,5,45,3.9,25,0.92,19.4,0.88
+FR0443,"Angular, Node.js, SQL, Content Writing, Copywriting, SEO Writing, Technical Writing",programming,3,42,4.2,57,0.86,20.1,0.96
+FR0444,"Digital Marketing, Analytics, Content Marketing, Social Media Marketing, Adobe XD, Photoshop, UI Design, UX Design, Logo Design",marketing,12,111,3.9,48,0.92,46.0,0.87
+FR0445,"Python, Node.js, Django",programming,15,135,5.0,97,0.9,11.2,0.94
+FR0446,"Illustrator, Graphic Design, UI Design, Photoshop, React, C++, Vue.js",design,10,75,4.0,98,0.88,2.0,0.96
+FR0447,"Content Writing, Blog Writing, Figma, UI Design, Photoshop, Logo Design, UX Design",writing,11,114,5.0,34,0.82,2.5,0.97
+FR0448,"Python, Angular, Analytics, SEO, PPC, Social Media Marketing, Content Marketing",programming,3,33,3.6,16,0.86,32.4,0.96
+FR0449,"UI Design, UX Design, Photoshop, Figma, JavaScript, Java",design,1,20,4.5,48,0.95,20.0,0.93
+FR0450,"C++, Swift, Python, Java, Vue.js",programming,4,55,4.7,54,0.92,10.7,0.94
+FR0451,"SEO Writing, Content Writing, Copywriting, UX Design, Figma",writing,14,99,3.6,60,0.88,11.4,0.96
+FR0452,"Adobe XD, UX Design, Creative Writing, Blog Writing, Content Writing, Copywriting",design,7,71,4.8,13,0.82,2.5,0.89
+FR0453,"Analytics, Email Marketing, Content Marketing, Social Media Marketing, Technical Writing, SEO Writing, Content Writing, Creative Writing",marketing,3,24,4.7,51,0.85,42.7,0.97
+FR0454,"Content Writing, SEO Writing, Blog Writing, Creative Writing, Technical Writing",writing,4,27,3.6,25,0.86,9.8,0.92
+FR0455,"Content Writing, SEO Writing, Logo Design, Photoshop, Figma, UX Design, UI Design",writing,6,45,4.9,86,0.99,36.9,0.95
+FR0456,"Technical Writing, Creative Writing, Swift, Ruby, React",writing,12,75,4.5,20,1.0,33.6,0.93
+FR0457,"Content Marketing, Analytics",marketing,5,60,4.0,30,0.99,9.8,0.97
+FR0458,"UX Design, Logo Design, Graphic Design, Figma",design,8,87,4.1,30,0.82,29.7,0.93
+FR0459,"SEO Writing, Blog Writing, Creative Writing, Content Writing, Technical Writing",writing,13,119,4.9,18,0.89,41.6,0.91
+FR0460,"Graphic Design, Illustrator, Logo Design, Figma, Photoshop",design,1,22,4.5,63,0.83,20.7,0.96
+FR0461,"Blog Writing, SEO Writing, Analytics, Email Marketing, Social Media Marketing, SEO",writing,12,111,4.9,33,0.83,15.7,0.98
+FR0462,"Social Media Marketing, PPC, Java, C++, Ruby",marketing,14,113,4.4,66,0.95,33.8,0.92
+FR0463,"PPC, Social Media Marketing, UI Design, Adobe XD, Figma",marketing,2,25,4.4,70,0.94,16.6,0.86
+FR0464,"Adobe XD, Graphic Design",design,10,55,3.6,44,0.82,12.2,0.87
+FR0465,"Django, JavaScript, PHP, React",programming,9,51,3.8,100,0.94,3.0,0.89
+FR0466,"Ruby, Swift",programming,8,55,4.8,75,0.85,45.3,0.99
+FR0467,"Content Marketing, Analytics, SEO, Digital Marketing, PPC, Content Writing, SEO Writing, Technical Writing",marketing,12,111,4.3,25,0.93,19.6,0.88
+FR0468,"Email Marketing, PPC, Digital Marketing",marketing,3,39,4.0,91,0.92,12.1,0.98
+FR0469,"Analytics, Content Marketing, Social Media Marketing",marketing,5,35,3.8,15,0.81,23.5,0.94
+FR0470,"Figma, Illustrator, Adobe XD",design,6,63,4.4,34,0.91,28.2,0.95
+FR0471,"Graphic Design, Adobe XD, Analytics, SEO",design,2,25,4.5,31,0.82,26.5,0.91
+FR0472,"Content Writing, Blog Writing",writing,3,30,3.5,29,0.85,3.2,0.91
+FR0473,"Digital Marketing, Email Marketing, PPC, Adobe XD, Logo Design, Figma",marketing,5,40,4.9,39,0.9,24.1,0.86
+FR0474,"Blog Writing, SEO Writing, Creative Writing",writing,13,80,4.1,54,0.9,8.6,0.94
+FR0475,"Creative Writing, SEO Writing",writing,11,103,3.7,68,0.96,38.4,0.91
+FR0476,"Java, Django, PHP, Adobe XD, UI Design",programming,9,78,3.9,91,0.97,18.1,0.97
+FR0477,"SEO, Email Marketing",marketing,13,93,3.6,65,0.89,29.3,0.98
+FR0478,"Figma, Logo Design, UX Design, Adobe XD, UI Design",design,10,55,3.7,6,0.82,7.9,0.97
+FR0479,"Email Marketing, PPC, Analytics, Content Writing, Copywriting",marketing,4,27,4.2,71,0.81,24.9,0.96
+FR0480,"UX Design, Graphic Design, Illustrator, Photoshop, React, Python",design,5,65,3.6,64,0.83,21.3,0.99
+FR0481,"Adobe XD, Logo Design, Photoshop, Graphic Design",design,5,35,4.7,22,0.93,19.0,0.88
+FR0482,"SEO Writing, Copywriting, Technical Writing, Creative Writing, Content Writing, PPC, Content Marketing, SEO, Digital Marketing",writing,1,19,4.2,37,1.0,17.2,0.89
+FR0483,"Illustrator, Logo Design, UI Design",design,5,40,4.5,39,0.93,4.2,0.93
+FR0484,"Logo Design, Illustrator",design,2,23,4.7,62,0.81,30.1,0.87
+FR0485,"Illustrator, UI Design, Adobe XD, Graphic Design",design,14,57,4.7,37,0.88,12.4,0.92
+FR0486,"Creative Writing, Blog Writing, Copywriting, Content Writing, SEO Writing, Content Marketing, Digital Marketing, SEO, Analytics",writing,5,40,4.3,41,0.85,29.4,0.86
+FR0487,"C++, Java, Angular, SQL, Creative Writing, Blog Writing, Content Writing, Technical Writing",programming,11,92,3.9,23,0.85,18.1,0.97
+FR0488,"C++, Node.js, JavaScript, Ruby, Python",programming,14,113,4.7,75,1.0,32.0,0.91
+FR0489,"Blog Writing, Technical Writing, Content Writing, SEO Writing, Copywriting",writing,2,25,4.6,79,1.0,37.3,0.92
+FR0490,"Technical Writing, Copywriting, Content Writing, Blog Writing, Creative Writing, Python, Swift, C++, SQL, Ruby",writing,15,105,4.0,47,0.83,38.9,0.91
+FR0491,"PPC, Content Marketing, Angular, Node.js, Java",marketing,4,39,3.6,54,0.97,27.8,0.97
+FR0492,"Social Media Marketing, Email Marketing, SEO, Content Marketing, PPC",marketing,15,135,4.3,86,0.92,23.1,1.0
+FR0493,"Creative Writing, Content Writing, Copywriting, Blog Writing, Technical Writing",writing,7,85,4.6,38,0.97,11.6,0.86
+FR0494,"Analytics, Digital Marketing, Email Marketing, SEO, Social Media Marketing",marketing,12,99,4.5,64,0.86,47.1,0.97
+FR0495,"Node.js, Angular, SQL, Java, Content Writing, Creative Writing, Technical Writing",programming,11,81,3.7,28,0.98,6.0,0.97
+FR0496,"Illustrator, Figma, UI Design, UX Design, Django, Ruby, React, C++, Node.js",design,1,20,3.9,8,0.99,12.2,0.98
+FR0497,"Copywriting, SEO Writing, Content Writing, Creative Writing, Angular, Java, PHP, Django, Swift",writing,6,69,4.4,70,0.9,40.5,1.0
+FR0498,"Content Writing, Creative Writing, Copywriting, Technical Writing, Graphic Design, Figma, Logo Design",writing,3,42,4.6,14,0.91,46.6,0.91
+FR0499,"SQL, Swift, React, Node.js, PHP, UI Design, UX Design, Photoshop, Graphic Design",programming,15,60,4.5,26,0.84,6.8,0.92
+FR0500,"Ruby, React, JavaScript, PHP",programming,8,71,4.3,52,0.83,18.5,0.87
+FR0501,"Creative Writing, SEO Writing, Technical Writing, Content Writing, Copywriting, Social Media Marketing, Email Marketing, SEO",writing,7,50,4.7,89,0.86,39.7,0.85
+FR0502,"UI Design, Photoshop, Figma, Illustrator, Logo Design",design,2,21,4.9,83,0.94,28.1,0.9
+FR0503,"Figma, Photoshop, UX Design, Adobe XD, Digital Marketing, Analytics, Content Marketing",design,9,51,4.1,73,0.81,3.5,0.91
+FR0504,"PHP, Angular, Swift, Python, SQL, PPC, Email Marketing, Digital Marketing, SEO, Content Marketing",programming,3,24,5.0,33,0.98,27.8,0.87
+FR0505,"SEO, Analytics",marketing,2,21,3.5,43,0.95,7.9,1.0
+FR0506,"PHP, Ruby, Node.js",programming,1,21,4.7,98,0.86,27.7,0.93
+FR0507,"PHP, Vue.js, JavaScript",programming,6,63,4.9,61,0.98,31.9,0.91
+FR0508,"Content Writing, Creative Writing",writing,2,35,3.9,23,1.0,36.9,0.89
+FR0509,"Copywriting, Creative Writing, Technical Writing, Blog Writing, Social Media Marketing, Digital Marketing",writing,15,165,4.2,55,0.94,28.2,1.0
+FR0510,"Email Marketing, Social Media Marketing, Content Marketing, Figma, Illustrator, Photoshop",marketing,10,105,4.6,76,0.87,35.4,0.86
+FR0511,"Technical Writing, Content Writing, Blog Writing, SEO Writing, Copywriting",writing,10,115,3.9,34,0.89,1.8,0.98
+FR0512,"Analytics, PPC, Social Media Marketing, Email Marketing, SEO",marketing,3,36,4.1,95,0.87,26.7,0.97
+FR0513,"Java, Python, React, UX Design, Adobe XD, Photoshop, Illustrator",programming,4,35,4.7,75,0.87,40.2,1.0
+FR0514,"C++, PHP, UI Design, Adobe XD",programming,8,79,5.0,20,0.81,13.7,0.94
+FR0515,"SEO, Digital Marketing, Social Media Marketing, Email Marketing, UX Design, Illustrator, Adobe XD",marketing,3,27,4.6,13,0.97,10.1,0.98
+FR0516,"Node.js, C++, Vue.js, Ruby, Swift, Technical Writing, Creative Writing",programming,9,60,3.8,89,0.98,45.0,0.93
+FR0517,"Illustrator, UI Design, Logo Design",design,5,65,3.7,98,0.91,43.2,0.96
+FR0518,"Copywriting, Blog Writing, Content Writing, PHP, Vue.js, Swift, Java, Python",writing,5,55,4.9,39,0.82,31.9,0.97
+FR0519,"Technical Writing, Creative Writing, Copywriting, Content Writing",writing,6,51,3.5,78,0.93,39.3,0.93
+FR0520,"Django, SQL, Java, Blog Writing, Technical Writing, Content Writing",programming,4,47,3.7,53,0.9,7.5,0.85
+FR0521,"Copywriting, Creative Writing, Technical Writing, SEO Writing, Content Writing, UI Design, Figma, Illustrator, UX Design",writing,14,155,4.5,37,0.84,40.5,0.9
+FR0522,"C++, Angular, Ruby, PHP, Vue.js",programming,15,120,4.6,91,0.91,2.5,0.99
+FR0523,"Technical Writing, Content Writing, Creative Writing, Blog Writing, PPC, SEO, Analytics",writing,10,75,4.9,36,0.85,43.2,0.92
+FR0524,"Social Media Marketing, Analytics, SEO, Digital Marketing, Content Marketing",marketing,11,70,3.9,40,0.93,1.1,0.95
+FR0525,"UX Design, Adobe XD, Photoshop, Logo Design, UI Design, PPC, SEO, Email Marketing, Analytics, Social Media Marketing",design,13,106,3.9,65,0.98,7.2,0.97
+FR0526,"UI Design, Figma, C++, JavaScript",design,7,64,4.7,46,0.97,15.2,0.99
+FR0527,"Photoshop, Figma, Adobe XD, Logo Design, UI Design",design,12,111,3.9,76,0.91,19.7,0.91
+FR0528,"Java, C++, Python, Digital Marketing, SEO, Email Marketing, Content Marketing",programming,9,60,3.5,39,0.87,2.6,0.97
+FR0529,"JavaScript, Django, Node.js",programming,5,55,4.7,74,0.93,37.2,0.99
+FR0530,"Adobe XD, Graphic Design, Logo Design, Figma, SEO, Social Media Marketing, Content Marketing, Digital Marketing, Email Marketing",design,10,45,4.0,79,0.82,1.7,0.9
+FR0531,"UI Design, Photoshop, Graphic Design, Illustrator, Blog Writing, Creative Writing, Copywriting",design,8,87,3.6,8,0.85,42.1,0.95
+FR0532,"UX Design, Photoshop, Illustrator, Graphic Design, Adobe XD, Creative Writing, Content Writing, Copywriting, Blog Writing",design,8,55,4.1,41,1.0,2.7,0.99
+FR0533,"Copywriting, Content Writing, Technical Writing, Creative Writing, SEO Writing",writing,14,141,3.6,15,0.98,37.9,0.88
+FR0534,"React, Python",programming,11,103,4.8,50,0.8,28.6,0.89
+FR0535,"SEO, Digital Marketing, PPC, Social Media Marketing, Graphic Design, UI Design",marketing,5,65,4.7,64,0.86,8.4,1.0
+FR0536,"Figma, Logo Design, UX Design, Photoshop, UI Design",design,7,43,4.0,43,0.99,8.9,0.96
+FR0537,"Illustrator, UI Design",design,4,31,3.6,76,0.9,19.5,0.9
+FR0538,"Graphic Design, Logo Design, SEO Writing, Content Writing",design,1,21,4.2,93,1.0,2.1,0.95
+FR0539,"Illustrator, Figma",design,6,57,4.4,32,0.9,3.7,0.99
+FR0540,"Content Marketing, SEO, Digital Marketing, Email Marketing, SEO Writing, Creative Writing, Copywriting, Technical Writing",marketing,10,95,3.5,30,1.0,28.8,0.97
+FR0541,"Content Writing, Blog Writing, Technical Writing, Illustrator, UX Design, Photoshop",writing,4,55,4.8,19,0.84,21.8,0.87
+FR0542,"Graphic Design, Figma, Logo Design, UI Design, Photoshop",design,15,105,3.9,75,0.96,31.1,0.95
+FR0543,"Email Marketing, SEO, Social Media Marketing, PPC, SQL, Django, PHP, C++, Swift",marketing,15,90,4.8,5,0.96,25.1,0.98
+FR0544,"PPC, Analytics, SEO, Content Marketing, Blog Writing, Content Writing, Copywriting, SEO Writing",marketing,5,40,4.3,15,0.91,17.7,0.89
+FR0545,"Social Media Marketing, PPC, Digital Marketing, Content Marketing, Copywriting, Creative Writing, Blog Writing, Technical Writing, SEO Writing",marketing,6,33,3.9,46,0.99,16.6,0.97
+FR0546,"PPC, Content Marketing, Email Marketing, Django, React, Java",marketing,15,135,4.5,42,0.9,8.4,0.93
+FR0547,"Illustrator, UI Design",design,13,54,3.9,54,1.0,17.5,0.93
+FR0548,"UX Design, UI Design, Graphic Design",design,2,23,4.2,6,0.97,3.5,0.97
+FR0549,"Illustrator, Logo Design, Photoshop, Figma, UX Design",design,3,39,4.4,20,0.87,45.3,0.95
+FR0550,"Python, C++, Technical Writing, Content Writing, Blog Writing, SEO Writing",programming,4,39,4.5,77,0.91,11.8,0.88
+FR0551,"Analytics, Social Media Marketing, Copywriting, Content Writing, Technical Writing, Blog Writing, Creative Writing",marketing,7,50,3.8,54,0.92,13.4,0.87
+FR0552,"PPC, SEO, Email Marketing, Blog Writing, Creative Writing, Technical Writing, Content Writing",marketing,15,105,4.6,46,0.9,7.7,0.96
+FR0553,"PPC, Digital Marketing, Social Media Marketing, Email Marketing",marketing,8,95,4.4,99,0.81,17.8,0.99
+FR0554,"Photoshop, UX Design, Adobe XD, Technical Writing, Copywriting, Blog Writing, SEO Writing, Content Writing",design,14,85,4.4,90,0.98,20.0,0.98
+FR0555,"SEO Writing, Technical Writing, Content Writing, Social Media Marketing, Email Marketing, Content Marketing, PPC",writing,11,125,4.7,47,0.82,30.3,0.95
+FR0556,"SQL, Python, Angular, Ruby, JavaScript, SEO, PPC, Content Marketing",programming,14,113,4.2,70,0.83,46.9,0.96
+FR0557,"Adobe XD, Graphic Design, Illustrator, Logo Design, Python, Angular, Swift, Java",design,2,35,5.0,45,0.92,16.1,0.9
+FR0558,"Django, Swift, Angular",programming,1,22,5.0,11,1.0,5.1,0.98
+FR0559,"Content Writing, Copywriting, Technical Writing, Creative Writing, SEO Writing",writing,2,29,4.4,45,0.85,38.0,0.98
+FR0560,"Adobe XD, Figma, UI Design, Graphic Design, Photoshop",design,13,145,4.2,54,0.86,45.7,0.89
+FR0561,"Analytics, SEO, Social Media Marketing, Content Marketing",marketing,1,25,4.0,93,0.99,29.9,0.86
+FR0562,"Photoshop, Illustrator, Figma",design,1,25,4.1,77,0.94,18.6,0.93
+FR0563,"Django, React, Node.js, Blog Writing, Creative Writing, Technical Writing, Content Writing",programming,1,22,4.1,76,0.82,25.3,0.97
+FR0564,"Technical Writing, Copywriting, Creative Writing, Logo Design, UI Design, Illustrator",writing,11,48,4.6,31,0.88,36.4,0.93
+FR0565,"Python, SQL, Analytics, SEO, Content Marketing, Email Marketing, Digital Marketing",programming,9,78,3.7,81,0.83,17.0,0.85
+FR0566,"UI Design, Graphic Design, Logo Design, Digital Marketing, Content Marketing, Email Marketing, PPC",design,4,35,4.2,27,0.84,36.4,0.87
+FR0567,"SEO, Analytics, Digital Marketing, PPC, Email Marketing",marketing,12,123,4.4,69,0.87,46.1,0.89
+FR0568,"Content Writing, Technical Writing, Blog Writing, Copywriting, Angular, PHP",writing,10,65,3.7,46,0.97,31.2,0.99
+FR0569,"Content Writing, Creative Writing, Technical Writing",writing,14,141,4.0,95,0.85,19.8,0.96
+FR0570,"Technical Writing, SEO Writing, Blog Writing",writing,9,60,4.7,56,0.91,18.1,0.87
+FR0571,"Blog Writing, Technical Writing, Content Writing, Creative Writing, Copywriting",writing,14,99,3.7,5,0.89,12.8,0.97
+FR0572,"SQL, PHP, Adobe XD, Figma, Photoshop, Logo Design",programming,8,55,4.5,93,0.94,1.1,0.97
+FR0573,"Node.js, Vue.js, Django, Graphic Design, Photoshop, Illustrator",programming,8,71,4.0,80,0.97,30.2,0.88
+FR0574,"Photoshop, Illustrator, Adobe XD, Graphic Design, Figma, Blog Writing, Technical Writing",design,3,36,4.2,96,0.94,19.1,0.89
+FR0575,"Email Marketing, PPC, Content Marketing, Analytics, Digital Marketing, Blog Writing, Creative Writing",marketing,2,27,3.6,36,0.86,25.9,0.93
+FR0576,"Creative Writing, Technical Writing",writing,7,57,4.2,10,0.96,6.0,0.86
+FR0577,"JavaScript, React",programming,14,155,4.5,83,0.95,45.7,0.98
+FR0578,"Social Media Marketing, Content Marketing, Analytics, PPC, Digital Marketing, Copywriting, Technical Writing, Blog Writing",marketing,9,51,4.5,86,0.81,46.1,0.94
+FR0579,"Analytics, Email Marketing, SEO, Content Marketing, Digital Marketing",marketing,8,71,3.9,86,0.92,34.8,0.92
+FR0580,"Email Marketing, Analytics, Copywriting, SEO Writing, Blog Writing",marketing,14,99,4.0,10,0.83,47.3,0.97
+FR0581,"Content Writing, Blog Writing, Copywriting",writing,6,69,5.0,99,0.98,32.2,0.9
+FR0582,"Illustrator, Figma, Photoshop, Graphic Design, UX Design",design,8,47,3.7,12,0.83,10.4,0.98
+FR0583,"Angular, Vue.js",programming,13,132,4.4,97,0.98,7.7,0.86
+FR0584,"Graphic Design, Photoshop, Illustrator, UX Design, React, Angular, C++",design,7,78,4.5,16,0.85,3.4,0.91
+FR0585,"Blog Writing, Creative Writing, SEO Writing, Digital Marketing, Email Marketing, Social Media Marketing",writing,8,39,4.8,31,0.86,16.5,0.9
+FR0586,"Copywriting, Content Writing, SEO Writing, Graphic Design, Adobe XD",writing,12,63,4.9,72,0.99,41.1,0.89
+FR0587,"C++, JavaScript",programming,9,105,4.0,10,0.98,15.6,0.95
+FR0588,"React, Ruby, Vue.js, Swift",programming,4,55,4.8,70,0.91,36.1,0.9
+FR0589,"Content Marketing, Analytics, Social Media Marketing, Swift, Java, Python, PHP",marketing,15,135,3.6,74,0.96,15.4,0.94
+FR0590,"Adobe XD, Graphic Design, UI Design, Illustrator",design,9,105,3.6,59,0.93,28.0,0.88
+FR0591,"Social Media Marketing, PPC, SEO, Copywriting, Content Writing, Creative Writing, Technical Writing, Blog Writing",marketing,7,57,4.5,94,0.93,23.2,1.0
+FR0592,"Django, SQL, C++",programming,2,27,4.9,26,0.98,8.1,0.9
+FR0593,"Django, Java, React, Angular, Node.js, Logo Design, Adobe XD, Figma, UX Design, Photoshop",programming,5,35,4.0,49,0.91,15.0,0.88
+FR0594,"Content Writing, Technical Writing, Blog Writing",writing,1,20,4.9,77,0.88,36.1,0.92
+FR0595,"Content Writing, Copywriting",writing,12,51,3.5,29,0.97,9.7,0.98
+FR0596,"SEO, Digital Marketing, Content Marketing, Photoshop, UI Design",marketing,1,19,3.5,25,0.89,3.8,0.91
+FR0597,"SEO Writing, Blog Writing, Copywriting",writing,7,43,4.3,80,0.84,33.4,0.93
+FR0598,"Technical Writing, Content Writing, Vue.js, JavaScript",writing,9,87,3.6,48,0.81,36.5,0.87
+FR0599,"Email Marketing, Analytics",marketing,4,27,3.8,20,0.84,4.1,0.95
+FR0600,"SQL, Ruby, Node.js",programming,4,43,4.1,84,0.87,37.7,0.99
+FR0601,"Django, Python, Java, Angular, C++",programming,7,43,4.7,26,0.81,42.2,0.88
+FR0602,"Figma, UI Design, Illustrator, Photoshop",design,9,96,4.8,49,0.95,26.1,0.9
+FR0603,"Creative Writing, Content Writing, Vue.js, Node.js",writing,6,57,4.8,96,0.85,39.0,0.91
+FR0604,"Email Marketing, PPC, Social Media Marketing, SEO, Digital Marketing",marketing,7,50,4.1,14,0.98,45.2,0.9
+FR0605,"Angular, Django, Ruby, Java, PHP, Blog Writing, Creative Writing, Copywriting",programming,7,36,4.4,72,0.94,33.6,0.91
+FR0606,"Content Writing, Blog Writing, Creative Writing, SEO Writing",writing,1,24,4.3,42,0.94,12.6,0.87
+FR0607,"Creative Writing, SEO Writing, Content Writing, Copywriting, Graphic Design, UX Design, UI Design, Figma, Adobe XD",writing,4,43,3.7,69,0.99,15.2,0.93
+FR0608,"Technical Writing, Creative Writing, Content Writing, SEO Writing",writing,3,27,3.6,78,0.91,17.0,0.99
+FR0609,"Java, Ruby, Node.js, JavaScript, Content Marketing, PPC",programming,2,27,4.2,90,0.9,5.9,0.91
+FR0610,"React, Java, C++, Swift, Python",programming,1,18,4.0,95,0.84,46.6,0.93
+FR0611,"Blog Writing, Technical Writing, Copywriting, Creative Writing",writing,6,63,3.8,45,0.89,36.9,0.96
+FR0612,"Analytics, Content Marketing, Social Media Marketing, Email Marketing, Copywriting, Content Writing, SEO Writing, Creative Writing",marketing,9,105,4.8,84,0.82,22.0,1.0
+FR0613,"SEO Writing, Content Writing, Graphic Design, Figma, Logo Design",writing,4,35,4.7,41,0.9,29.1,0.92
+FR0614,"Blog Writing, Technical Writing, Copywriting, Content Writing, Ruby, JavaScript, Django",writing,11,48,4.8,13,0.99,2.2,0.93
+FR0615,"Digital Marketing, SEO, Email Marketing, Content Writing, Creative Writing, SEO Writing, Technical Writing",marketing,14,71,4.1,67,0.95,19.5,0.99
+FR0616,"Creative Writing, Blog Writing, Copywriting, Content Writing, Technical Writing",writing,12,51,3.6,33,0.94,18.5,0.89
+FR0617,"Email Marketing, Digital Marketing, Analytics, PPC",marketing,7,50,4.9,51,0.85,15.6,0.92
+FR0618,"Analytics, Social Media Marketing, Content Marketing, PPC",marketing,13,67,5.0,95,0.93,29.8,0.89
+FR0619,"Figma, Graphic Design, UX Design, Logo Design",design,9,87,4.3,41,0.91,10.8,0.86
+FR0620,"SEO, Digital Marketing, Content Marketing, UI Design, Logo Design, UX Design, Illustrator",marketing,4,39,5.0,69,0.99,23.3,0.97
+FR0621,"Graphic Design, Photoshop, Adobe XD, UI Design, PHP, React, Django, Node.js, Java",design,7,71,4.4,69,0.96,42.9,0.92
+FR0622,"PPC, Content Marketing, Email Marketing, Analytics, Digital Marketing, Angular, React, Python, Node.js",marketing,7,50,4.7,71,0.92,4.2,0.93
+FR0623,"Content Marketing, Social Media Marketing",marketing,10,85,4.5,82,0.92,46.3,0.97
+FR0624,"Email Marketing, Digital Marketing, PPC, SEO, Graphic Design, Adobe XD, UX Design",marketing,10,65,3.7,37,0.99,15.1,0.99
+FR0625,"SQL, Python, JavaScript",programming,5,65,5.0,64,0.93,26.5,0.86
+FR0626,"Python, JavaScript, Java",programming,12,111,4.9,18,0.96,25.3,0.99
+FR0627,"Creative Writing, Content Writing, Blog Writing, Analytics, Digital Marketing",writing,13,145,4.6,99,0.83,16.0,0.89
+FR0628,"Content Marketing, Analytics",marketing,2,21,4.3,24,0.82,39.6,0.95
+FR0629,"Content Marketing, Digital Marketing, UX Design, UI Design, Figma, Graphic Design, Adobe XD",marketing,11,114,4.9,20,1.0,46.9,0.88
+FR0630,"Vue.js, C++, JavaScript, Django, PHP",programming,8,95,4.1,55,0.87,23.0,0.97
+FR0631,"Email Marketing, PPC, Social Media Marketing, SEO, Digital Marketing, Logo Design, Graphic Design",marketing,8,39,4.6,23,0.88,11.8,0.91
+FR0632,"Logo Design, UX Design, Photoshop, Technical Writing, Blog Writing, SEO Writing",design,10,105,3.6,48,0.87,37.7,0.96
+FR0633,"Social Media Marketing, Content Marketing, SEO, Email Marketing, Digital Marketing",marketing,7,43,5.0,41,0.8,19.9,0.95
+FR0634,"UI Design, UX Design, Adobe XD, Illustrator, Figma",design,9,105,4.4,18,0.93,6.4,0.89
+FR0635,"PPC, Content Marketing, SEO",marketing,15,60,5.0,10,0.92,45.4,0.99
+FR0636,"Adobe XD, Logo Design, UX Design",design,13,119,4.4,79,0.84,36.5,0.94
+FR0637,"Technical Writing, SEO Writing, Creative Writing, Blog Writing, Ruby, Django, Node.js, SQL",writing,11,92,3.9,49,0.83,33.4,0.99
+FR0638,"Logo Design, Graphic Design, Illustrator",design,8,87,4.4,82,0.92,45.3,0.92
+FR0639,"Figma, UX Design, Illustrator, Graphic Design, Photoshop",design,1,23,4.0,50,0.83,4.0,0.88
+FR0640,"Swift, Java, Django",programming,2,25,4.8,68,0.8,34.2,0.97
+FR0641,"SQL, Ruby, SEO, Analytics, Digital Marketing",programming,10,45,4.8,56,0.89,21.1,0.98
+FR0642,"Digital Marketing, SEO, SEO Writing, Technical Writing, Copywriting, Content Writing",marketing,4,47,4.2,52,0.96,15.3,0.99
+FR0643,"Email Marketing, Social Media Marketing",marketing,14,127,3.9,88,0.92,46.4,0.98
+FR0644,"Vue.js, Java",programming,8,79,3.7,46,0.94,47.9,0.87
+FR0645,"Graphic Design, Photoshop",design,1,20,4.7,59,0.92,11.2,0.95
+FR0646,"React, Ruby",programming,11,70,5.0,58,0.88,14.0,0.9
+FR0647,"PHP, React, Angular, Email Marketing, Social Media Marketing, Analytics, Digital Marketing, PPC",programming,12,123,3.5,50,0.9,2.9,0.99
+FR0648,"Adobe XD, Logo Design",design,10,105,3.8,84,0.89,41.2,0.92
+FR0649,"Creative Writing, Content Writing",writing,5,35,4.3,18,0.86,46.7,0.91
+FR0650,"Python, Ruby, Angular, Swift, React, PPC, Digital Marketing, Analytics",programming,7,36,4.4,97,0.9,38.7,0.89
+FR0651,"SQL, Node.js, JavaScript, Swift, Analytics, Social Media Marketing, Content Marketing, Email Marketing",programming,5,60,4.1,31,0.97,11.0,0.91
+FR0652,"Photoshop, UX Design, Adobe XD",design,2,31,4.3,56,0.82,43.5,0.96
+FR0653,"React, Angular, JavaScript, Content Writing, Creative Writing, SEO Writing, Technical Writing",programming,3,33,3.9,39,0.89,42.5,0.92
+FR0654,"React, PHP, SQL",programming,6,39,3.6,53,0.96,24.7,0.99
+FR0655,"SEO Writing, Blog Writing, Creative Writing, Technical Writing, Content Writing, Content Marketing, Social Media Marketing, Email Marketing, Analytics, SEO",writing,5,65,4.4,95,0.99,30.0,0.89
+FR0656,"Python, Java",programming,14,141,3.6,49,0.92,23.0,0.96
+FR0657,"SQL, Node.js, PHP, Copywriting, Blog Writing, Content Writing, Creative Writing, SEO Writing",programming,5,30,4.6,57,0.93,29.3,0.95
+FR0658,"UI Design, Figma, UX Design",design,7,57,3.7,11,0.82,25.4,0.91
+FR0659,"Technical Writing, SEO Writing, Blog Writing",writing,11,70,4.0,79,0.85,11.3,0.9
+FR0660,"Content Marketing, Email Marketing",marketing,5,65,4.2,75,0.84,7.7,0.9
+FR0661,"Content Writing, Creative Writing",writing,11,81,4.0,16,0.88,35.4,0.99
+FR0662,"Graphic Design, Illustrator, UI Design, Logo Design",design,12,135,4.5,65,0.86,46.3,0.95
+FR0663,"Creative Writing, Copywriting, Blog Writing, Content Writing, Adobe XD, Graphic Design, UX Design, Illustrator, Figma",writing,6,45,4.3,30,0.84,34.7,0.95
+FR0664,"Blog Writing, Creative Writing, Technical Writing, SEO Writing, Copywriting",writing,6,75,3.7,53,0.9,13.7,0.9
+FR0665,"Ruby, JavaScript, React, Figma, Photoshop",programming,7,50,4.5,13,0.84,7.6,0.99
+FR0666,"Logo Design, Adobe XD, Figma, Illustrator, Graphic Design, PPC, Digital Marketing",design,8,63,3.6,23,0.82,3.0,0.87
+FR0667,"SEO, Content Marketing, Social Media Marketing, UI Design, Photoshop",marketing,14,141,3.8,79,0.98,47.8,0.94
+FR0668,"Analytics, Social Media Marketing, Content Marketing, Email Marketing",marketing,10,55,3.7,13,0.92,33.6,0.95
+FR0669,"UI Design, Photoshop, UX Design",design,5,65,4.3,28,0.89,35.9,0.92
+FR0670,"Ruby, PHP, Copywriting, SEO Writing, Blog Writing, Content Writing, Creative Writing",programming,6,57,4.3,100,0.81,16.4,1.0
+FR0671,"Technical Writing, Creative Writing, Java, Node.js, JavaScript, Angular",writing,14,85,4.0,79,0.99,35.3,0.93
+FR0672,"C++, Python, Java, Node.js, React",programming,10,55,3.6,65,0.98,34.2,1.0
+FR0673,"UI Design, Figma, UX Design, Logo Design, Graphic Design, React, Vue.js, SQL, Java, Python",design,7,78,4.6,45,0.85,38.6,0.99
+FR0674,"Adobe XD, Graphic Design, Illustrator, UX Design, SEO Writing, Technical Writing, Content Writing, Copywriting, Creative Writing",design,13,67,3.7,16,1.0,47.5,0.87
+FR0675,"Swift, PHP, Ruby, C++, Adobe XD, Photoshop, UX Design",programming,10,105,4.0,85,1.0,15.3,0.99
+FR0676,"Blog Writing, Technical Writing, Copywriting, SEO Writing",writing,5,55,4.7,19,0.83,34.1,0.99
+FR0677,"Adobe XD, Photoshop, Illustrator, UX Design, Social Media Marketing, PPC, SEO, Email Marketing",design,5,45,4.1,54,0.91,34.8,0.87
+FR0678,"JavaScript, C++, Python, Vue.js, Content Writing, Creative Writing, Blog Writing",programming,11,48,4.9,82,0.9,23.8,0.92
+FR0679,"PPC, Digital Marketing, Analytics",marketing,4,47,4.5,44,0.89,46.1,0.97
+FR0680,"Email Marketing, Analytics",marketing,15,90,3.5,10,1.0,36.4,0.89
+FR0681,"SEO Writing, Blog Writing, Technical Writing, Content Writing",writing,2,27,4.4,29,0.81,34.3,0.86
+FR0682,"PPC, SEO, Java, Swift",marketing,4,55,4.9,52,1.0,37.5,0.98
+FR0683,"Illustrator, Figma, Adobe XD, UX Design",design,10,115,4.7,7,0.85,46.1,0.86
+FR0684,"Email Marketing, Analytics",marketing,9,87,3.7,12,0.9,9.0,0.98
+FR0685,"Analytics, Content Marketing, SEO, Social Media Marketing, PPC",marketing,2,33,4.6,56,0.82,46.7,0.98
+FR0686,"SEO Writing, Technical Writing, Blog Writing, Content Writing, Copywriting",writing,13,80,4.8,31,0.9,26.3,0.97
+FR0687,"PPC, Digital Marketing, Analytics",marketing,2,23,4.8,96,0.92,23.9,0.85
+FR0688,"Figma, UX Design, Photoshop, Graphic Design",design,3,27,3.9,59,0.93,15.9,0.86
+FR0689,"Node.js, Angular, React, PHP, Blog Writing, Creative Writing, Technical Writing",programming,6,75,4.3,8,0.95,15.7,0.96
+FR0690,"SEO, Social Media Marketing, Email Marketing, Analytics, Content Marketing, Blog Writing, Content Writing, SEO Writing, Technical Writing, Copywriting",marketing,7,57,4.3,49,0.84,7.5,0.88
+FR0691,"Graphic Design, Adobe XD, Illustrator, UX Design, Photoshop",design,10,45,4.2,27,0.91,40.5,0.96
+FR0692,"Content Writing, Blog Writing, Technical Writing, Creative Writing",writing,6,51,4.5,7,0.85,43.5,0.96
+FR0693,"Java, Django, Angular, Python",programming,4,35,3.6,20,1.0,26.0,0.92
+FR0694,"Logo Design, Photoshop, UX Design, Figma, Adobe XD, Creative Writing, Blog Writing, Copywriting",design,10,45,5.0,43,1.0,24.4,0.97
+FR0695,"SEO, Social Media Marketing, Analytics",marketing,7,85,4.6,24,0.91,39.3,0.92
+FR0696,"PHP, React, Vue.js, Ruby",programming,5,55,4.8,41,0.92,38.5,0.89
+FR0697,"UX Design, Figma, Photoshop, Adobe XD, Graphic Design, Vue.js, JavaScript, Swift",design,11,92,5.0,91,0.83,30.6,0.94
+FR0698,"Blog Writing, SEO Writing, Creative Writing, Content Writing",writing,11,125,3.8,72,0.97,15.7,0.97
+FR0699,"JavaScript, C++, SQL, Node.js, Vue.js",programming,14,113,4.4,30,0.92,26.8,0.97
+FR0700,"Technical Writing, Content Writing, Creative Writing, Blog Writing, Copywriting, Email Marketing, Analytics, PPC, Digital Marketing",writing,6,75,3.7,75,0.89,29.1,0.99
+FR0701,"Blog Writing, Content Writing, UX Design, Photoshop, UI Design",writing,10,65,3.7,81,0.96,9.5,0.91
+FR0702,"Vue.js, Java",programming,12,51,4.5,95,0.9,39.5,0.87
+FR0703,"Creative Writing, SEO Writing, Copywriting, Adobe XD, Figma, UI Design, Logo Design",writing,14,99,3.9,15,0.81,26.1,0.89
+FR0704,"Logo Design, Figma, UI Design, Analytics, Social Media Marketing, Email Marketing, PPC",design,6,51,4.3,69,0.95,7.5,0.88
+FR0705,"Digital Marketing, Social Media Marketing, JavaScript, Node.js",marketing,5,55,3.6,84,0.84,9.8,0.96
+FR0706,"Java, Ruby, PHP, Angular, Node.js",programming,11,103,4.0,49,0.89,28.8,0.98
+FR0707,"Content Writing, Blog Writing, Adobe XD, Figma, Logo Design, Graphic Design",writing,9,78,4.2,99,0.82,9.8,0.89
+FR0708,"UX Design, UI Design, Illustrator, Photoshop, SEO Writing, Copywriting, Blog Writing",design,7,50,4.2,23,0.91,21.4,0.99
+FR0709,"Technical Writing, SEO Writing, Copywriting, Blog Writing",writing,7,64,4.2,98,0.81,16.9,1.0
+FR0710,"SEO, Email Marketing, Digital Marketing, PPC",marketing,14,127,3.6,7,0.91,18.3,0.99
+FR0711,"Content Writing, Technical Writing, UI Design, Graphic Design, UX Design",writing,8,55,4.2,20,0.83,25.6,0.87
+FR0712,"Technical Writing, Copywriting, Blog Writing, Creative Writing, SEO Writing, Swift, Vue.js",writing,13,93,4.6,58,0.83,24.9,0.87
+FR0713,"Technical Writing, Blog Writing",writing,12,75,4.6,40,0.94,32.2,0.97
+FR0714,"C++, Java, Vue.js, JavaScript, Photoshop, Illustrator, UI Design, Logo Design, Figma",programming,12,63,4.2,27,0.91,15.9,0.95
+FR0715,"Vue.js, Java",programming,7,71,3.7,36,0.96,45.2,0.92
+FR0716,"Email Marketing, Social Media Marketing, Creative Writing, Copywriting, Content Writing",marketing,12,87,4.6,48,0.83,46.2,0.9
+FR0717,"Blog Writing, Technical Writing, SEO Writing",writing,11,103,3.5,9,1.0,13.2,0.89
+FR0718,"PPC, Email Marketing, Content Marketing, Analytics, Social Media Marketing, PHP, Java, Vue.js, Node.js, React",marketing,6,51,4.4,35,0.86,1.8,0.97
+FR0719,"Ruby, SQL, Swift",programming,8,39,4.7,7,0.89,17.4,0.98
+FR0720,"Blog Writing, SEO Writing, Copywriting, Creative Writing, Technical Writing, SEO, PPC",writing,14,113,3.8,91,0.99,14.1,0.99
+FR0721,"Python, React, Copywriting, Technical Writing",programming,6,63,4.0,20,0.94,17.6,0.89
+FR0722,"Illustrator, Adobe XD, UI Design",design,12,87,3.9,58,1.0,13.9,0.96
+FR0723,"SEO, Social Media Marketing, Digital Marketing, Email Marketing, PPC",marketing,13,106,4.5,35,0.98,15.1,0.9
+FR0724,"Technical Writing, Blog Writing, SEO Writing, Figma, Logo Design, UX Design, Illustrator, Graphic Design",writing,4,39,3.7,97,0.83,46.1,0.95
+FR0725,"PPC, Analytics, Email Marketing",marketing,5,50,4.4,21,0.93,6.1,0.86
+FR0726,"SEO, Analytics, PHP, Node.js, Vue.js, Java",marketing,8,55,4.0,67,0.82,45.0,0.88
+FR0727,"Photoshop, UX Design, Adobe XD, Graphic Design, Illustrator, Creative Writing, Technical Writing, Content Writing, Copywriting, SEO Writing",design,7,78,4.2,61,0.93,14.2,0.95
+FR0728,"UI Design, Logo Design, Figma, Graphic Design, Creative Writing, Technical Writing, Content Writing",design,12,99,4.2,37,0.87,14.8,0.97
+FR0729,"Adobe XD, Figma, Technical Writing, Copywriting, Creative Writing, Blog Writing, SEO Writing",design,15,120,4.3,79,0.86,6.7,0.89
+FR0730,"Graphic Design, Illustrator, UI Design, Photoshop, Adobe XD, Content Writing, SEO Writing, Technical Writing, Creative Writing, Copywriting",design,11,81,4.4,30,0.91,46.2,0.87
+FR0731,"Copywriting, Technical Writing, SEO Writing",writing,14,141,3.8,31,0.86,39.5,0.99
+FR0732,"Photoshop, Figma, Analytics, Digital Marketing, SEO, PPC",design,15,105,3.9,87,0.95,6.3,0.99
+FR0733,"Analytics, SEO, Digital Marketing, Python, JavaScript, Angular, SQL",marketing,1,20,3.5,57,0.84,15.3,0.99
+FR0734,"Illustrator, Graphic Design, Content Writing, Technical Writing, SEO Writing, Creative Writing",design,10,75,3.7,75,0.96,21.1,0.85
+FR0735,"Blog Writing, Technical Writing, Creative Writing, Content Writing, Copywriting",writing,2,29,4.8,45,0.87,25.9,0.92
+FR0736,"Node.js, Python, UX Design, Adobe XD",programming,4,43,4.7,25,0.83,33.2,0.9
+FR0737,"Graphic Design, Figma, UI Design, Adobe XD, Vue.js, SQL, Node.js",design,2,31,4.3,100,0.98,14.8,1.0
+FR0738,"Java, Vue.js",programming,8,47,4.8,46,0.9,24.8,0.91
+FR0739,"Figma, Adobe XD, UI Design, Illustrator, Content Marketing, Digital Marketing, SEO, PPC, Social Media Marketing",design,10,95,4.6,99,0.9,45.8,0.96
+FR0740,"Email Marketing, Digital Marketing, Logo Design, Graphic Design, Illustrator, Figma, Adobe XD",marketing,9,69,4.3,30,0.82,38.5,0.94
+FR0741,"Content Writing, Creative Writing",writing,12,87,4.3,79,0.99,45.3,0.89
+FR0742,"JavaScript, React, SQL, Angular",programming,6,63,4.2,38,0.88,23.0,0.9
+FR0743,"Analytics, Social Media Marketing, Digital Marketing, PPC, SEO",marketing,3,27,5.0,90,0.95,16.7,0.88
+FR0744,"Copywriting, Creative Writing, Blog Writing, Technical Writing, React, Django, SQL",writing,12,87,3.9,5,0.83,31.8,0.89
+FR0745,"Python, C++, Adobe XD, Logo Design",programming,11,70,3.8,59,0.87,15.0,0.9
+FR0746,"Adobe XD, Logo Design, UX Design, Illustrator, Photoshop",design,10,95,4.2,39,0.84,23.5,0.97
+FR0747,"Ruby, PHP, Java, Vue.js, Content Marketing, SEO, Social Media Marketing, PPC, Digital Marketing",programming,1,23,3.6,18,0.91,13.1,0.9
+FR0748,"PHP, Angular, Content Writing, SEO Writing",programming,7,57,4.1,39,0.88,37.3,0.99
+FR0749,"Blog Writing, Technical Writing, Content Writing, Creative Writing, Copywriting",writing,2,25,4.6,96,0.96,15.1,1.0
+FR0750,"Figma, Illustrator",design,15,105,4.9,21,0.97,17.8,0.86
+FR0751,"C++, Swift, SQL, Node.js, Email Marketing, Digital Marketing",programming,2,35,4.7,18,0.88,36.2,0.88
+FR0752,"Technical Writing, Blog Writing, Copywriting, SEO Writing, Creative Writing, Figma, UI Design, UX Design, Logo Design",writing,9,105,4.8,53,0.87,4.3,0.85
+FR0753,"PHP, Angular, Java",programming,11,92,3.9,8,0.98,24.3,0.98
+FR0754,"Digital Marketing, PPC",marketing,2,21,4.5,20,0.85,28.9,0.97
+FR0755,"SEO Writing, Creative Writing, SEO, PPC",writing,15,165,4.3,66,0.97,38.4,0.86
+FR0756,"Copywriting, SEO Writing, Creative Writing, Blog Writing, Content Writing, Python, Node.js, React, Django",writing,12,135,4.8,90,0.9,5.0,0.87
+FR0757,"UI Design, UX Design, Figma, Photoshop, Adobe XD",design,5,45,4.7,9,0.99,46.7,0.96
+FR0758,"Email Marketing, Social Media Marketing, Copywriting, Technical Writing, Creative Writing",marketing,11,59,4.3,97,0.95,28.2,0.9
+FR0759,"Technical Writing, Blog Writing, SEO, Analytics, Social Media Marketing, Content Marketing",writing,15,150,4.1,70,0.81,13.3,0.96
+FR0760,"UI Design, UX Design, Illustrator",design,14,141,4.9,73,0.84,43.8,0.88
+FR0761,"Technical Writing, SEO Writing, Blog Writing, Content Writing",writing,3,30,3.7,46,0.85,30.5,0.9
+FR0762,"UX Design, Figma, Photoshop, Illustrator, Blog Writing, Content Writing, Creative Writing, Copywriting",design,13,145,4.0,25,0.81,17.7,0.88
+FR0763,"Digital Marketing, Email Marketing, Node.js, Python",marketing,11,92,3.7,60,0.98,29.4,0.94
+FR0764,"React, Node.js, Illustrator, Graphic Design",programming,11,103,3.9,43,0.96,1.9,0.86
+FR0765,"Content Marketing, Email Marketing, Social Media Marketing, Analytics",marketing,13,54,4.6,78,0.99,28.5,0.92
+FR0766,"SEO, Content Marketing, Email Marketing, PPC, Analytics",marketing,12,111,3.7,92,0.92,19.1,0.88
+FR0767,"Social Media Marketing, SEO, Analytics, Digital Marketing, PPC, Node.js, Swift",marketing,8,55,4.5,66,0.94,2.0,0.9
+FR0768,"Java, React, Swift, C++, SEO, PPC, Social Media Marketing, Email Marketing",programming,12,51,4.4,25,0.84,10.8,0.86
+FR0769,"Creative Writing, Blog Writing, Content Writing, SEO Writing, Copywriting",writing,10,55,3.8,47,0.81,3.5,0.94
+FR0770,"UI Design, Logo Design, UX Design, Illustrator",design,3,24,3.9,42,0.93,4.4,0.99
+FR0771,"Social Media Marketing, Email Marketing",marketing,13,132,3.7,60,0.89,22.6,0.92
+FR0772,"Content Writing, Blog Writing",writing,11,81,4.7,85,0.84,16.8,0.87
+FR0773,"SEO Writing, Copywriting, Creative Writing, Blog Writing, Technical Writing",writing,9,78,4.0,26,0.96,38.9,0.96
+FR0774,"PHP, C++",programming,10,45,5.0,7,0.95,21.8,0.86
+FR0775,"Adobe XD, Illustrator, Photoshop, JavaScript, Node.js, Java, Swift",design,15,75,4.6,35,0.94,46.0,0.85
+FR0776,"SEO Writing, Content Writing, Copywriting, Creative Writing, Blog Writing, C++, Angular, Python, Ruby, Swift",writing,7,50,4.7,31,0.9,22.5,0.9
+FR0777,"Python, Vue.js",programming,3,33,4.5,85,0.94,14.2,0.88
+FR0778,"Python, Angular, Vue.js, PHP, Social Media Marketing, Email Marketing",programming,2,25,4.0,88,0.93,16.0,0.9
+FR0779,"PPC, Analytics",marketing,10,95,4.4,60,0.99,15.8,0.92
+FR0780,"PPC, SEO, Social Media Marketing",marketing,13,106,4.1,42,0.91,6.1,0.89
+FR0781,"PPC, Social Media Marketing, Email Marketing",marketing,6,39,4.0,15,0.88,4.6,0.93
+FR0782,"Content Marketing, PPC",marketing,13,132,4.8,44,0.83,33.9,0.97
+FR0783,"Graphic Design, Adobe XD, UX Design, Illustrator, Analytics, Digital Marketing, Email Marketing, PPC",design,4,35,4.7,29,0.95,1.8,0.96
+FR0784,"Copywriting, SEO Writing, Content Writing, Technical Writing, C++, Ruby, Vue.js, Java",writing,15,60,4.5,8,0.82,13.5,1.0
+FR0785,"Social Media Marketing, SEO",marketing,7,36,3.8,38,0.95,27.2,0.98
+FR0786,"Photoshop, UX Design, UI Design, Content Marketing, Email Marketing, Analytics, Social Media Marketing",design,7,43,3.6,68,0.88,37.2,0.89
+FR0787,"Illustrator, Graphic Design, Adobe XD",design,13,93,4.2,71,0.92,8.2,0.88
+FR0788,"SEO Writing, Blog Writing, Content Writing, Technical Writing, Copywriting, SQL, Angular, Ruby, Vue.js, C++",writing,15,60,3.9,84,0.9,35.6,0.91
+FR0789,"Copywriting, Technical Writing",writing,13,119,3.8,35,0.8,39.2,0.89
+FR0790,"Photoshop, UI Design, Graphic Design, Figma, SEO Writing, Creative Writing, Content Writing, Blog Writing",design,3,30,3.9,76,0.91,18.1,0.91
+FR0791,"Analytics, PPC, Email Marketing, Digital Marketing, SEO",marketing,3,39,4.7,16,0.98,6.5,0.9
+FR0792,"Creative Writing, Blog Writing, Technical Writing, Illustrator, Adobe XD, Photoshop, UI Design",writing,15,75,4.6,36,0.98,34.3,0.91
+FR0793,"Creative Writing, SEO Writing, Content Writing, Copywriting",writing,14,155,4.2,71,0.93,24.4,1.0
+FR0794,"Digital Marketing, PPC, Analytics",marketing,2,23,4.4,43,0.99,6.0,0.97
+FR0795,"C++, Java",programming,15,135,5.0,67,0.85,42.4,0.89
+FR0796,"Copywriting, Technical Writing, SEO Writing",writing,3,24,4.9,52,0.93,26.9,0.96
+FR0797,"C++, Ruby",programming,14,113,4.8,48,0.99,34.8,0.95
+FR0798,"Swift, Django, JavaScript, UX Design, UI Design, Illustrator, Graphic Design",programming,10,45,4.5,73,0.81,2.3,0.96
+FR0799,"Content Writing, Copywriting, Creative Writing, SEO Writing, Technical Writing, Django, Ruby, C++, React",writing,2,27,3.7,50,0.97,40.3,0.9
+FR0800,"SQL, Angular",programming,8,47,4.8,88,0.8,6.9,0.91
+FR0801,"Adobe XD, Illustrator",design,1,21,4.5,22,0.94,18.4,0.91
+FR0802,"Logo Design, Figma, UI Design, Photoshop",design,11,125,4.0,35,0.98,31.8,0.95
+FR0803,"Email Marketing, Analytics, PPC",marketing,2,29,3.6,73,0.96,16.6,0.93
+FR0804,"Graphic Design, Photoshop, Adobe XD, Figma, Illustrator",design,4,35,5.0,8,0.92,35.7,1.0
+FR0805,"UX Design, Logo Design, Photoshop, Figma, Node.js, Java, Django",design,5,35,4.1,32,0.86,4.0,0.98
+FR0806,"Ruby, Node.js, JavaScript, Java, PPC, Digital Marketing, Content Marketing",programming,4,31,3.5,11,0.83,33.4,0.92
+FR0807,"Technical Writing, Blog Writing, Copywriting, SEO Writing, Creative Writing, Social Media Marketing, Email Marketing, Content Marketing",writing,6,75,4.1,91,0.98,3.7,0.98
+FR0808,"JavaScript, Vue.js, Digital Marketing, Social Media Marketing, SEO, Content Marketing",programming,6,57,4.6,27,0.82,31.7,0.96
+FR0809,"Swift, Java, Node.js, Angular, React",programming,1,21,3.5,25,0.91,36.2,0.85
+FR0810,"UX Design, Illustrator, Logo Design, Photoshop, Graphic Design",design,12,51,5.0,15,0.83,40.9,0.89
+FR0811,"Swift, SQL, Social Media Marketing, Analytics, SEO",programming,11,114,4.0,69,0.96,13.9,0.88
+FR0812,"SEO Writing, Content Writing, Blog Writing, Content Marketing, PPC",writing,8,47,4.6,85,0.93,41.6,0.97
+FR0813,"Copywriting, SEO Writing",writing,4,55,4.2,80,0.89,41.2,0.95
+FR0814,"Analytics, Social Media Marketing, PPC, Digital Marketing",marketing,11,59,3.5,31,0.88,45.6,0.85
+FR0815,"UI Design, Logo Design, SQL, Django, Node.js, Java",design,7,85,3.9,13,0.98,24.7,0.93
+FR0816,"Digital Marketing, SEO, Email Marketing",marketing,7,78,4.3,38,0.83,30.0,0.98
+FR0817,"Content Marketing, PPC, Social Media Marketing, Analytics, Digital Marketing, Creative Writing, Copywriting, Technical Writing, Content Writing",marketing,4,27,4.4,96,0.88,44.3,0.97
+FR0818,"Photoshop, Illustrator, React, Django",design,4,43,4.3,67,0.88,22.6,0.98
+FR0819,"Digital Marketing, Email Marketing, Analytics, PPC, UX Design, Photoshop, Adobe XD, Graphic Design",marketing,14,127,4.4,54,0.95,21.7,0.86
+FR0820,"React, PHP, C++, Angular",programming,13,119,5.0,81,0.9,5.8,0.86
+FR0821,"Angular, Django",programming,4,51,4.0,90,0.91,5.0,0.98
+FR0822,"Analytics, Content Marketing, Email Marketing, UX Design, Logo Design, Figma, Photoshop",marketing,1,18,5.0,31,0.91,4.3,0.96
+FR0823,"JavaScript, C++, PHP, Ruby, Swift",programming,3,42,3.8,45,0.97,45.2,0.99
+FR0824,"Creative Writing, Copywriting, Blog Writing, SEO Writing, Angular, SQL, C++, Django",writing,11,92,4.2,58,0.83,29.8,0.85
+FR0825,"Blog Writing, Creative Writing, Technical Writing, Node.js, PHP, Ruby, Swift",writing,7,43,4.2,97,0.83,43.8,0.92
+FR0826,"Django, Ruby, Vue.js, Angular, Blog Writing, Copywriting, Technical Writing",programming,7,50,3.9,92,0.96,30.7,0.92
+FR0827,"Analytics, Digital Marketing",marketing,11,81,4.5,28,0.84,28.4,0.99
+FR0828,"Blog Writing, Technical Writing, SEO Writing",writing,7,64,4.4,54,0.81,12.5,0.96
+FR0829,"Illustrator, Adobe XD, Graphic Design, Copywriting, Blog Writing, Creative Writing, SEO Writing",design,15,165,3.6,81,0.99,34.6,0.86
+FR0830,"UX Design, Figma, Logo Design, Adobe XD, Photoshop",design,13,67,3.7,35,0.95,26.1,0.94
+FR0831,"Blog Writing, Creative Writing, Copywriting, SEO Writing",writing,11,81,3.9,91,0.81,2.7,0.87
+FR0832,"Illustrator, Graphic Design, Photoshop, Adobe XD, UI Design",design,10,105,4.0,22,0.96,32.1,0.89
+FR0833,"Email Marketing, SEO, PPC, Digital Marketing, Analytics, SEO Writing, Technical Writing, Blog Writing",marketing,2,21,4.1,69,0.98,45.6,0.87
+FR0834,"Content Writing, Creative Writing, Java, SQL, JavaScript, C++, Node.js",writing,7,71,4.7,83,0.97,6.0,0.86
+FR0835,"Digital Marketing, Content Marketing, SEO, Analytics, Email Marketing",marketing,12,63,4.0,43,0.89,39.7,1.0
+FR0836,"Angular, C++, Ruby, React, Digital Marketing, PPC, Email Marketing, Content Marketing, SEO",programming,13,119,3.8,87,0.93,29.6,0.95
+FR0837,"Java, SQL, React, Adobe XD, UI Design, Figma, Logo Design, Illustrator",programming,3,27,4.2,18,0.91,1.2,0.96
+FR0838,"Content Marketing, Social Media Marketing, Figma, UI Design, Illustrator, UX Design",marketing,4,27,4.9,64,0.88,45.3,0.86
+FR0839,"Vue.js, React, Ruby, Content Writing, SEO Writing",programming,1,18,4.1,24,0.98,35.6,0.96
+FR0840,"Node.js, Java, Swift",programming,10,95,3.5,83,0.92,21.3,0.95
+FR0841,"SEO, Digital Marketing, Analytics, PPC, Content Marketing, Figma, UX Design",marketing,4,43,4.1,15,0.93,8.2,0.91
+FR0842,"SQL, Node.js, Swift",programming,15,75,3.6,13,0.85,40.0,0.88
+FR0843,"Social Media Marketing, Digital Marketing, Email Marketing, SEO, UI Design, Photoshop, Graphic Design, Figma",marketing,12,123,3.7,83,0.95,26.6,0.92
+FR0844,"C++, Vue.js, Ruby",programming,5,30,4.1,91,0.88,13.7,0.99
+FR0845,"Content Marketing, Email Marketing, Digital Marketing",marketing,5,30,3.9,36,0.92,16.3,0.92
+FR0846,"SEO Writing, Content Writing, Copywriting, Creative Writing, Email Marketing, SEO, Analytics, Content Marketing",writing,13,132,4.9,91,0.95,7.3,0.95
+FR0847,"SEO, Social Media Marketing, Digital Marketing, Content Writing, Creative Writing, Copywriting, Technical Writing, SEO Writing",marketing,3,27,4.1,59,0.93,42.8,0.99
+FR0848,"Technical Writing, Copywriting, SEO Writing, Blog Writing, UX Design, Adobe XD, Logo Design",writing,14,155,4.5,29,0.95,31.9,0.94
+FR0849,"SQL, Python, JavaScript, Angular, Swift",programming,14,85,4.5,29,0.95,4.3,0.99
+FR0850,"Copywriting, Blog Writing, Digital Marketing, Email Marketing, Content Marketing, PPC",writing,5,50,3.8,53,0.98,46.4,0.92
+FR0851,"Ruby, Python, Django, JavaScript, Swift",programming,7,64,3.8,23,0.88,42.0,0.91
+FR0852,"C++, Angular, JavaScript",programming,5,30,4.3,5,0.89,13.8,0.92
+FR0853,"Analytics, SEO, Social Media Marketing, Content Marketing, PPC",marketing,4,55,3.8,65,0.81,18.6,0.91
+FR0854,"React, Node.js, Adobe XD, Figma, Illustrator",programming,14,71,4.3,64,0.99,5.6,0.97
+FR0855,"JavaScript, React, Node.js, Vue.js, Swift, Analytics, Email Marketing, Digital Marketing",programming,5,60,4.7,91,0.99,30.9,0.98
+FR0856,"Creative Writing, SEO Writing, Technical Writing, Analytics, PPC, Email Marketing, Content Marketing",writing,9,96,4.5,74,0.81,6.1,0.94
+FR0857,"Digital Marketing, Analytics, SEO, PHP, Vue.js, SQL, Java, Angular",marketing,4,27,4.1,78,0.89,43.3,0.85
+FR0858,"Copywriting, Blog Writing, Creative Writing, Technical Writing",writing,1,18,4.3,52,0.94,8.5,0.98
+FR0859,"Content Marketing, Social Media Marketing, Email Marketing",marketing,1,18,4.6,75,0.87,29.1,0.94
+FR0860,"Copywriting, Technical Writing, SEO Writing, Blog Writing, Content Writing, Node.js, Ruby, SQL, Python",writing,15,105,4.2,80,0.96,15.0,0.98
+FR0861,"Logo Design, Illustrator, Graphic Design, UI Design, SEO Writing, Copywriting, Creative Writing, Blog Writing",design,7,64,4.2,99,0.86,31.6,0.88
+FR0862,"UI Design, Illustrator, Adobe XD, Figma, Photoshop",design,14,141,4.6,95,0.83,46.1,0.97
+FR0863,"Figma, Graphic Design, UX Design, Illustrator, PPC, Digital Marketing",design,11,70,4.6,43,0.99,1.3,0.96
+FR0864,"Email Marketing, Social Media Marketing, Blog Writing, Copywriting",marketing,15,90,4.3,62,0.98,2.3,0.92
+FR0865,"SEO Writing, Content Writing, Creative Writing, Technical Writing, Blog Writing, Photoshop, Adobe XD, Figma, Logo Design",writing,8,87,4.3,51,0.84,43.2,0.96
+FR0866,"Java, Vue.js, Node.js, Content Marketing, Email Marketing, PPC, Digital Marketing, SEO",programming,12,123,4.7,63,0.86,46.8,0.93
+FR0867,"Email Marketing, PPC, SEO, Content Marketing",marketing,8,39,4.2,49,0.84,2.9,0.92
+FR0868,"Photoshop, Graphic Design, UI Design, Figma, Adobe XD, Copywriting, Blog Writing",design,15,90,4.7,8,0.86,28.4,0.96
+FR0869,"PHP, JavaScript",programming,15,90,4.2,65,0.86,40.7,0.91
+FR0870,"Angular, Ruby",programming,2,29,4.1,67,0.89,27.0,0.87
+FR0871,"C++, Vue.js, React, Python, SQL, Social Media Marketing, SEO",programming,15,135,4.9,64,0.93,25.1,1.0
+FR0872,"Vue.js, Ruby, Angular, Illustrator, UI Design, Photoshop, Figma, Adobe XD",programming,15,120,3.9,37,0.98,28.9,0.89
+FR0873,"SEO, Social Media Marketing",marketing,8,79,4.7,29,0.89,12.7,0.87
+FR0874,"Figma, Illustrator, Adobe XD, Graphic Design, Creative Writing, Copywriting, Content Writing, SEO Writing, Blog Writing",design,5,45,4.0,69,0.86,14.4,0.96
+FR0875,"Graphic Design, Logo Design, Illustrator",design,4,51,4.6,14,0.87,24.8,0.99
+FR0876,"SEO Writing, Technical Writing, Content Writing",writing,14,99,4.5,64,0.94,36.5,0.9
+FR0877,"Blog Writing, Copywriting, Technical Writing, Creative Writing",writing,14,127,4.0,17,0.92,9.1,0.86
+FR0878,"Illustrator, UI Design",design,7,57,4.2,75,0.87,44.0,0.92
+FR0879,"Python, Vue.js, React, Blog Writing, Content Writing",programming,8,71,4.2,34,0.81,19.4,0.93
+FR0880,"PPC, Social Media Marketing, SEO",marketing,3,24,4.8,98,0.84,3.9,0.89
+FR0881,"Copywriting, SEO Writing, Creative Writing, Content Writing, Graphic Design, Photoshop, UX Design, Logo Design, Figma",writing,6,63,4.3,57,0.99,44.9,1.0
+FR0882,"Creative Writing, Blog Writing, Technical Writing, SEO Writing, Content Writing",writing,13,106,4.2,23,0.84,45.1,0.91
+FR0883,"Analytics, SEO",marketing,6,69,4.2,23,0.93,26.1,0.99
+FR0884,"Node.js, SQL, Ruby",programming,5,55,4.5,45,0.89,22.3,0.97
+FR0885,"Content Writing, Technical Writing, Blog Writing, SEO, PPC",writing,1,19,4.5,50,0.97,7.9,0.87
+FR0886,"C++, Python",programming,13,80,4.3,77,0.86,14.3,0.97
+FR0887,"PPC, Analytics, Digital Marketing, Graphic Design, Illustrator, UX Design, Adobe XD",marketing,12,123,3.8,37,0.93,19.8,0.89
+FR0888,"SEO Writing, Blog Writing, UX Design, Photoshop, UI Design, Graphic Design",writing,6,75,4.7,63,0.98,12.6,0.95
+FR0889,"Illustrator, Figma, UX Design, Graphic Design, UI Design, Python, Ruby",design,7,57,4.9,50,0.87,25.6,0.91
+FR0890,"Creative Writing, Technical Writing, Digital Marketing, Social Media Marketing, PPC, Content Marketing",writing,12,99,4.1,85,0.8,18.6,0.85
+FR0891,"JavaScript, PHP, Swift, Django, Java, Adobe XD, UI Design, Figma, Illustrator, Photoshop",programming,9,78,4.1,81,0.83,10.2,0.92
+FR0892,"Analytics, Social Media Marketing, Creative Writing, Technical Writing, SEO Writing, Blog Writing",marketing,2,33,4.9,50,0.81,43.9,0.86
+FR0893,"Figma, Adobe XD, Social Media Marketing, Content Marketing, SEO",design,3,45,4.3,76,0.94,4.5,0.95
+FR0894,"Figma, Logo Design, UX Design, Creative Writing, Blog Writing, Content Writing, Copywriting",design,5,40,4.4,82,0.96,45.7,0.87
+FR0895,"Social Media Marketing, Content Marketing, PPC, SEO, Logo Design, Photoshop, Graphic Design, UX Design",marketing,11,114,3.9,46,0.89,41.6,0.91
+FR0896,"UX Design, Figma, Logo Design, Illustrator, Python, Swift",design,9,69,4.6,95,0.99,30.1,0.95
+FR0897,"UX Design, UI Design, Graphic Design, Figma, Adobe XD",design,3,33,3.9,60,0.97,15.8,0.87
+FR0898,"Content Writing, Blog Writing, Email Marketing, Content Marketing, Social Media Marketing, SEO, PPC",writing,8,55,4.6,37,0.94,41.1,0.92
+FR0899,"Social Media Marketing, SEO, Email Marketing, Content Marketing, Analytics, Adobe XD, Logo Design, Photoshop",marketing,14,127,3.7,45,0.8,36.8,0.9
+FR0900,"JavaScript, Angular, Swift",programming,10,105,4.8,68,0.93,21.1,0.97
+FR0901,"Swift, PHP, Python, JavaScript, Java, Content Writing, Blog Writing",programming,2,31,4.6,58,0.96,26.9,0.94
+FR0902,"Copywriting, Blog Writing, Ruby, SQL",writing,13,67,4.8,58,0.9,46.9,0.91
+FR0903,"Analytics, SEO, Digital Marketing, Social Media Marketing",marketing,11,114,4.2,31,0.88,37.8,0.95
+FR0904,"SEO, PPC",marketing,11,125,4.9,79,0.95,2.7,0.98
+FR0905,"Django, Swift, Ruby, SQL, Illustrator, Figma, UX Design, Photoshop, UI Design",programming,5,35,4.5,15,0.82,7.0,0.96
+FR0906,"Analytics, Social Media Marketing, Email Marketing",marketing,1,18,4.8,84,0.87,21.2,0.88
+FR0907,"Digital Marketing, Email Marketing, PPC, Social Media Marketing, SEO Writing, Creative Writing, Technical Writing, Copywriting, Content Writing",marketing,8,63,4.9,18,0.88,37.4,0.94
+FR0908,"Technical Writing, SEO Writing, Creative Writing, Blog Writing, Copywriting, Figma, Illustrator, Adobe XD",writing,15,75,4.6,41,0.81,20.0,0.89
+FR0909,"Vue.js, PHP",programming,3,45,3.5,58,0.96,38.8,0.87
+FR0910,"Email Marketing, Analytics, PPC, Content Marketing, Copywriting, Blog Writing, SEO Writing, Technical Writing, Content Writing",marketing,8,79,4.1,40,0.98,38.0,0.91
+FR0911,"Adobe XD, UI Design, Illustrator, Figma, Logo Design, PPC, Analytics",design,15,60,4.7,8,0.94,44.3,0.91
+FR0912,"Content Marketing, SEO, Angular, JavaScript",marketing,9,96,4.3,55,0.93,27.5,0.91
+FR0913,"Angular, Django, C++",programming,1,24,4.2,55,0.8,44.0,0.98
+FR0914,"Content Writing, Technical Writing, Creative Writing",writing,13,67,4.3,59,0.88,17.8,0.96
+FR0915,"UX Design, Adobe XD, Swift, React, JavaScript, Angular",design,11,59,4.4,94,0.93,8.4,0.93
+FR0916,"PPC, Email Marketing",marketing,7,50,3.9,29,0.81,8.9,0.99
+FR0917,"Technical Writing, Creative Writing, Blog Writing",writing,2,35,4.5,72,0.93,9.1,0.86
+FR0918,"Creative Writing, Copywriting, Technical Writing, Content Writing, Blog Writing, C++, Vue.js, Java, Angular",writing,4,51,4.9,90,0.83,42.0,0.95
+FR0919,"Digital Marketing, Content Marketing, PHP, SQL",marketing,14,141,3.7,6,1.0,33.1,0.94
+FR0920,"React, Swift, C++, JavaScript",programming,4,35,5.0,66,0.82,12.8,0.92
+FR0921,"Email Marketing, Digital Marketing, Analytics, SEO, Social Media Marketing, SEO Writing, Technical Writing",marketing,9,96,4.6,30,0.98,39.4,0.93
+FR0922,"Vue.js, PHP, SQL",programming,15,135,3.5,51,0.82,3.1,0.88
+FR0923,"Java, JavaScript",programming,9,42,3.5,20,0.87,26.9,0.86
+FR0924,"Technical Writing, Blog Writing, Copywriting, Vue.js, SQL, React",writing,2,21,4.2,35,0.87,40.1,0.96
+FR0925,"Technical Writing, SEO Writing",writing,3,42,4.7,73,0.9,21.5,0.98
+FR0926,"SEO, Email Marketing, PPC, Analytics, Content Marketing, Content Writing, Creative Writing, Copywriting",marketing,14,113,4.2,73,0.9,10.1,0.89
+FR0927,"Digital Marketing, SEO, Analytics, Content Marketing, Content Writing, Technical Writing, Creative Writing",marketing,11,59,4.3,6,0.82,16.7,0.86
+FR0928,"Copywriting, SEO Writing, Blog Writing, Technical Writing, Creative Writing",writing,2,23,4.7,38,0.98,23.3,0.99
+FR0929,"Copywriting, Content Writing, Technical Writing",writing,9,51,3.6,69,0.89,28.5,0.98
+FR0930,"Content Marketing, Analytics, Digital Marketing, SEO, Email Marketing",marketing,1,19,4.2,25,0.8,27.4,0.96
+FR0931,"Figma, Illustrator",design,2,21,4.5,17,0.84,12.0,0.9
+FR0932,"Graphic Design, Illustrator, Adobe XD",design,15,105,3.8,24,0.93,47.0,0.9
+FR0933,"Photoshop, Adobe XD, Digital Marketing, Analytics, Email Marketing",design,3,27,4.3,59,0.85,36.4,0.9
+FR0934,"Swift, Java, C++, Django, Analytics, Content Marketing, PPC",programming,1,21,4.6,97,0.99,15.1,0.9
+FR0935,"Content Writing, Creative Writing, Blog Writing, Technical Writing, Photoshop, Illustrator, UX Design",writing,4,55,4.6,86,0.94,46.3,0.94
+FR0936,"Content Writing, Creative Writing",writing,3,27,5.0,29,0.88,28.7,0.95
+FR0937,"Content Marketing, Social Media Marketing, Analytics, PPC",marketing,11,48,3.6,75,0.94,39.2,0.96
+FR0938,"Social Media Marketing, SEO",marketing,11,114,3.8,73,0.92,14.4,0.9
+FR0939,"SQL, Python",programming,10,85,3.6,47,0.96,4.1,0.9
+FR0940,"Illustrator, UI Design, Django, Node.js, Ruby",design,4,31,4.1,11,0.93,22.3,0.92
+FR0941,"Blog Writing, Content Writing, Technical Writing, C++, React, Node.js, JavaScript, Java",writing,14,127,3.6,86,0.9,25.7,0.93
+FR0942,"SEO, Digital Marketing, PPC",marketing,2,29,3.7,23,1.0,12.2,0.98
+FR0943,"Creative Writing, Copywriting, Django, Ruby, Vue.js",writing,12,99,4.8,16,0.87,23.9,0.96
+FR0944,"UX Design, Adobe XD, Illustrator, Photoshop, Graphic Design",design,13,145,4.2,45,0.93,16.8,0.96
+FR0945,"Technical Writing, Content Writing, Copywriting, PHP, C++, React, SQL, Ruby",writing,11,114,4.2,74,1.0,36.4,0.95
+FR0946,"Creative Writing, Content Writing",writing,9,78,3.6,45,0.89,4.5,0.91
+FR0947,"Copywriting, Technical Writing, SEO Writing, JavaScript, PHP, Django",writing,9,60,4.0,15,0.91,2.5,0.99
+FR0948,"Email Marketing, Analytics, Digital Marketing, Social Media Marketing, PPC, SEO Writing, Technical Writing, Copywriting, Content Writing",marketing,15,105,4.6,71,0.89,10.6,0.87
+FR0949,"Graphic Design, Adobe XD, Blog Writing, SEO Writing",design,5,60,4.4,81,0.96,28.5,0.86
+FR0950,"C++, Node.js",programming,3,36,5.0,32,0.98,44.6,0.86
+FR0951,"C++, Vue.js, PHP, Django",programming,7,71,5.0,61,0.96,3.9,0.86
+FR0952,"Java, Python, Illustrator, UX Design",programming,13,93,4.5,44,0.84,40.5,0.94
+FR0953,"JavaScript, Angular, Python, PHP",programming,5,40,4.6,59,0.9,29.0,0.86
+FR0954,"Illustrator, Graphic Design, UX Design, Adobe XD",design,8,71,3.6,74,0.83,32.1,0.92
+FR0955,"Logo Design, Photoshop, Django, SQL, Java, JavaScript, React",design,4,35,3.6,14,0.86,9.5,0.9
+FR0956,"Illustrator, UX Design",design,13,54,3.9,85,0.95,27.7,0.87
+FR0957,"Logo Design, Graphic Design",design,5,60,4.6,40,0.9,27.6,0.93
+FR0958,"Swift, Java, Vue.js, Django, C++",programming,13,132,4.5,31,0.97,16.0,0.91
+FR0959,"Social Media Marketing, Content Marketing, Content Writing, Creative Writing, Technical Writing, SEO Writing, Copywriting",marketing,15,135,4.5,43,0.89,38.2,0.92
+FR0960,"Logo Design, Photoshop, UI Design, Graphic Design, Analytics, Email Marketing, Digital Marketing",design,9,96,4.5,38,0.98,21.7,0.86
+FR0961,"Blog Writing, Technical Writing, Content Writing, SEO Writing, Copywriting, C++, React, JavaScript",writing,11,48,3.9,20,0.96,38.9,0.88
+FR0962,"Graphic Design, Photoshop, UX Design, UI Design, Figma, Angular, Swift",design,8,71,3.6,75,0.92,7.9,0.95
+FR0963,"Content Marketing, Email Marketing",marketing,11,70,3.5,13,0.96,18.2,0.87
+FR0964,"Python, JavaScript, Vue.js, Swift, Social Media Marketing, Content Marketing",programming,13,132,4.7,42,0.87,3.2,0.89
+FR0965,"Graphic Design, Adobe XD, Figma",design,1,20,4.9,11,0.92,18.5,0.98
+FR0966,"UX Design, Logo Design, PPC, Analytics",design,14,127,3.7,96,0.88,46.4,0.9
+FR0967,"Copywriting, SEO Writing, Technical Writing, Blog Writing, Content Writing, Figma, Graphic Design, Logo Design",writing,8,39,4.0,89,0.86,10.4,0.96
+FR0968,"SEO Writing, Blog Writing, Technical Writing",writing,8,79,3.9,12,0.95,27.3,1.0
+FR0969,"Copywriting, SEO Writing, Content Writing, Technical Writing, Blog Writing, Content Marketing, Digital Marketing",writing,1,24,4.8,42,0.88,30.7,0.87
+FR0970,"SQL, React, PHP, Node.js, SEO, Email Marketing, Content Marketing, PPC, Social Media Marketing",programming,12,111,4.3,65,0.83,17.2,0.92
+FR0971,"JavaScript, Django, PHP, C++, Angular",programming,1,20,5.0,26,0.95,27.1,0.96
+FR0972,"Node.js, Django, Python, Content Marketing, Social Media Marketing",programming,1,23,4.6,91,0.82,40.7,0.9
+FR0973,"Content Writing, SEO Writing",writing,14,71,4.4,49,0.85,27.9,0.89
+FR0974,"Django, Java, Ruby, Python, PHP",programming,9,87,4.1,83,0.89,8.9,0.86
+FR0975,"Graphic Design, Photoshop, Figma, UI Design, Swift, Java, Django",design,1,25,3.7,38,0.94,30.5,0.96
+FR0976,"Logo Design, UI Design",design,15,165,3.7,38,0.98,10.6,0.97
+FR0977,"Blog Writing, Copywriting, Creative Writing, Content Writing, Technical Writing, Graphic Design, Photoshop, Adobe XD",writing,10,105,4.8,34,0.83,24.4,0.86
+FR0978,"Content Writing, SEO Writing, Creative Writing, Node.js, Django",writing,10,95,4.0,74,0.83,16.9,0.99
+FR0979,"Content Writing, Technical Writing, Creative Writing, SEO Writing",writing,4,55,3.6,5,0.99,5.3,0.96
+FR0980,"Photoshop, UX Design",design,12,51,4.3,92,0.86,44.4,0.9
+FR0981,"Java, SQL, Content Writing, Technical Writing, Blog Writing, Creative Writing",programming,13,132,5.0,52,0.84,39.8,0.98
+FR0982,"Django, Ruby, Email Marketing, PPC, Social Media Marketing, Analytics, Content Marketing",programming,6,51,4.7,60,0.86,27.0,0.97
+FR0983,"Django, Java",programming,15,105,4.3,44,1.0,26.1,0.92
+FR0984,"SEO, Email Marketing",marketing,13,54,3.6,62,0.99,44.6,0.87
+FR0985,"PHP, Swift, Java, JavaScript, Python",programming,2,35,4.4,45,0.86,47.1,0.86
+FR0986,"Django, Python, React",programming,5,60,4.4,34,0.92,47.1,0.95
+FR0987,"UI Design, Illustrator, Adobe XD",design,15,165,4.4,93,0.88,35.4,0.96
+FR0988,"UI Design, Illustrator, Adobe XD, UX Design",design,9,78,4.2,7,0.82,15.3,0.87
+FR0989,"Logo Design, Adobe XD, Graphic Design",design,11,59,3.6,24,0.9,1.8,0.85
+FR0990,"Blog Writing, Content Writing, Copywriting",writing,4,51,4.3,33,0.99,25.5,0.94
+FR0991,"Analytics, Digital Marketing, PPC",marketing,14,127,4.3,15,0.83,8.3,0.89
+FR0992,"Angular, React, Copywriting, Creative Writing, Blog Writing",programming,9,42,3.5,89,0.88,47.1,0.97
+FR0993,"Email Marketing, Digital Marketing, PPC, Content Marketing",marketing,2,29,3.7,31,0.97,18.7,0.87
+FR0994,"Analytics, SEO",marketing,2,35,3.8,22,0.87,20.3,0.98
+FR0995,"UI Design, Logo Design, Graphic Design, Illustrator, Photoshop",design,11,125,4.6,48,0.95,7.3,0.87
+FR0996,"Digital Marketing, Analytics",marketing,11,114,4.1,33,0.84,4.5,0.96
+FR0997,"Python, Node.js, C++, Angular, Vue.js",programming,12,135,4.6,49,0.82,1.3,0.85
+FR0998,"SEO Writing, Content Writing, Digital Marketing, Email Marketing, PPC, Content Marketing",writing,11,114,4.8,92,0.9,8.6,0.96
+FR0999,"Digital Marketing, Email Marketing",marketing,8,71,4.3,69,0.88,19.4,0.96
+FR1000,"Django, Java, Python, PHP",programming,6,69,4.3,75,0.96,42.0,0.97
